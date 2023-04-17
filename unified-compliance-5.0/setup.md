@@ -110,4 +110,4 @@ Once you have finished specifying your billing contact and payment method detail
 
 #### Step 8: All Done
 
-Congratulations! You have successfully completed the setup of your Administrator user, Organization, Account, Subscription, Billing Contact, and Payment Method. As the Administrator, you can now invite team members, review dashboard reports, review transaction history, add funding to your account, and more!&#x20;
+Congratulations! You have successfully completed the setup of your Administrator user, Organization, Account, Subscription, Billing Contact, and Payment Method. As the Administrator, you can now invite team members, review transaction history, add funding to your account, and much, much more!&#x20;
