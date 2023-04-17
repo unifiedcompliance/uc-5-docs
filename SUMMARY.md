@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Unified Compliance](README.md)
+* [Unified Compliance 5.0](README.md)
 * [PlantUML](plantuml.md)
 * [Dictionary](dictionary.md)
+* [API Gateway](api-gateway.md)
