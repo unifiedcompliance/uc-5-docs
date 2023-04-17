@@ -2,6 +2,8 @@
 
 * [Unified Compliance 5.0](README.md)
   * [Setup](unified-compliance-5.0/setup.md)
+  * [Dictionary](dictionary.md)
+  * [PlantUML](plantuml.md)
   * [Administration](unified-compliance-5.0/administration/README.md)
     * [Account Settings](unified-compliance-5.0/administration/account-settings.md)
     * [Team](unified-compliance-5.0/administration/team.md)
@@ -10,6 +12,4 @@
     * [Tokens](unified-compliance-5.0/administration/tokens.md)
     * [Calculator](unified-compliance-5.0/administration/calculator.md)
     * [Transactions](unified-compliance-5.0/administration/transactions.md)
-  * [PlantUML](plantuml.md)
-  * [Dictionary](dictionary.md)
   * [API Gateway](unified-compliance-5.0/api-gateway.md)
