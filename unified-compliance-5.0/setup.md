@@ -1,43 +1,51 @@
+---
+description: >-
+  Set up your User login, Organization, Account, Subscription, Billing Contact
+  and Payment Method.
+---
+
 # Setup
 
 #### Step 1: Register
 
-Open the following URL in your browser: [https://agpm.complianceascode.net/](https://agpmdev.complianceascode.net/)
+Open the following URL in your browser:  [https://](https://agpmdev.complianceascode.net/)app.unifiedcompliance.com
 
 Choose the _Register_ link, and enter your:
 
 * Email Address
-* Password
+* Password & Confirm Password
 * First Name
 * Last Name
 
-Then press the _SIGN UP_ button.
+Then press the _Register_ button.
 
-Note: The first user to register for your account will be the Administrator user and therefore has access to all the gateway functions. After inviting team members, you can promote other users to have administrator access. All of your _users_ will belong to your _account._ This is the account that has the address and phone information. User accounts only have a name and email address on file.
+Note: The first user to register for your account will be the Administrator and therefore have access to all the administrative functions. After inviting team members, you can promote other users to have Administrator access. All of your _users_ will belong to your _account_, however, users are allowed to join other accounts as well_._&#x20;
 
 #### Step 2: Account Verification
 
-We'll send an email to your specified email address. Click on the link within the email to verify your email address. You will be taken to the Gateway application with confirmation that your account has been verified. Select _Back to API Gateway,_ and you will see a prompt to log into the gateway using the email address and password specified in Step 1.
+We'll send an email to your specified email address. Click on the link within the email to _verify_ your email address. You will be taken to the application where you can click on the _Verify_ button to confirm your email address.  Upon success, sign back in to the application using the email address and password specified in Step 1. &#x20;
 
 #### Step 3: Agree to the Terms of Use
 
-Read the Terms of Use and then if you agree, select _I Accept_.
+Read the Terms of Use (and be sure to scroll all the way down to the end) and if you agree, select _I Accept_.
 
 #### Step 4: Set Up your Organization
 
-The gateway will attempt to locate and prepopulate your Organization details based on the domain of the email address specified in Step 1. If your Organization was found, then skip to Step 5. Otherwise, you will see a prompt to _Create A New Account_. Enter the following:
+The application will attempt to locate and pre-populate your Organization details based on the domain of the email address specified in Step 1. If your Organization was found then the Name and Domain will be pre-populated.  You must still specify at least two social addresses for the Organization to proceed while the other fields are optional.  Otherwise, enter the following:
 
-* Organization Name (the name of your Organization/Company)
-* Founded (the year the Organization was founded)
-* Description (a description of your Organization)
-* Other Names (for example, a sub-company or division name)
-* Primary Domain (the primary web domain of your Organization, for example, unifiedcompliance.com)
-* Social Addresses (enter at least two social addresses for your Organization, for example, [https://www.facebook.com/UnifiedCompliance/](https://www.facebook.com/UnifiedCompliance/) and [https://twitter.com/the\_ucf](https://twitter.com/the\_ucf)). The following social sites are available for selection: Twitter, Facebook, LinkedIn, Instagram, Github, Medium, Vimeo, Pinterest, Reddit, and Dribble.
-* Primary Address (enter the primary address of your Organization)
-* Primary Phone (enter the primary phone number of your Organization)
-* Primary Email (enter the primary email address of your Organization)
+* Organization Name (the name of your Organization/Company) - Required
+* Founded (the year the Organization was founded) - Required
+* Description (a description of your Organization) - Required
+* Other Names (for example, a sub-company or division name) - Optional
+* Primary Domain (the primary web domain of your Organization, for example, _unifiedcompliance.com_) - Required
+* Social Addresses (enter at least two social addresses for your Organization, for example, [_https://www.facebook.com/UnifiedCompliance/_](https://www.facebook.com/UnifiedCompliance/) and [_https://twitter.com/the\_ucf_](https://twitter.com/the\_ucf)). The following social platforms are available for selection: Twitter, Facebook, LinkedIn, Instagram, Github, Medium, Vimeo, Pinterest, Reddit, and Dribble. - Required
+* Primary Address (enter the primary address of your Organization) - Optional
+* Primary Phone (enter the primary phone number of your Organization) - Optional
+* Primary Email (enter the primary email address of your Organization) - Optional
 
-You can enter multiple values, so utilize the _Primary_ option to make one in each list the primary value. When finished, select the _Save Organization_ button to proceed to the next step.
+For some of the fields above, you can enter multiple values, so utilize the _Primary_ option to make one in each list the _primary_ value.&#x20;
+
+When finished, select the _Save Organization_ button to save and proceed to the next step.
 
 #### Step 5: Setup User Account Details
 
