@@ -1,7 +1,7 @@
 ---
 description: >-
-  Set up your User login, Organization, Account, Subscription, Billing Contact
-  and Payment Method.
+  Follow the steps below to setup your login, Organization, Account,
+  Subscription, Billing Contact and Payment Method.
 ---
 
 # Setup
