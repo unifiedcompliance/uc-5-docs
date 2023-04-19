@@ -56,4 +56,4 @@ You can utilize the Team page to manage existing team members as well. The follo
 * Revoke - use this to modify the status of the user from Active to Disabled (_only available for Active users_)
 * Activate - use this to modify the status of the user from Disabled to Active (_only available for Disabled users_)
 
-**NOTE**:  REST API's are available to perform the above administrative functions - contact Support for more details.
+**NOTE**:  REST API's are available to perform the above administrative functions should you need to do so via an API - contact Support for more details.
