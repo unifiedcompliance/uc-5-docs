@@ -1,7 +1,5 @@
 ---
-description: >-
-  Follow the steps below to setup your login, Organization, Account,
-  Subscription, Billing Contact and Payment Method.
+description: Follow the steps below to complete the on-boarding process
 ---
 
 # Setup
