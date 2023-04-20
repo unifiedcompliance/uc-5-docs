@@ -10,4 +10,4 @@ Now that you have registered and completed the setup process, as the Administrat
 * Utilize the token calculator to determine how many more tokens you may need for your account
 * Review all of your billing and API transactions
 
-The following pages describe each of these in more detail.
+These functions are accessible from the _Administration_ option in the main navigation panel.  The following pages describe each of these in more detail.
