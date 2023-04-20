@@ -12,10 +12,10 @@ The gateway supports RESTful APIs that:
 The onboarding flow of the Unified Compliance 5.0 application will guide you through the process of registering, which includes:
 
 * Creation of your Organization
-* Creation of your administrator user and master account(s)
-* Enrollment in a subscription plan
+* Creation of your Administrator user and Account
+* Enrollment in a Subscription plan
 * Creation of a billing contact and payment method
 
-Next, you can invite team members to your account.
+Next, you can invite team members to your account.  Each team member will receive a unique API key used for authentication when making API requests.
 
-A subscription plan will provide you with API tokens. Tokens are deducted each time your team makes an API call. Need more tokens? No problem - visit the Tokens page to add more tokens to your account.
+A subscription plan will also provide you with API tokens. Tokens are deducted each time your team makes an API call (depending on the type of call).  Need more tokens? No problem - visit the Tokens page to add more tokens to your account.
