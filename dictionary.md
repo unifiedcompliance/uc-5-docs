@@ -8,4 +8,4 @@ The Dictionary module allows you to look up a term against several different dic
 * Wordnik
 * Free
 
-Enter a term and press _Search_ and we will provide&#x20;
+Enter a term and press _Search_ and the system will query all 6 dictionaries and display the response.
