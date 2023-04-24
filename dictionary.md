@@ -10,11 +10,11 @@ By default (unless a pre-filter on Dictionary provider was set), the system will
 
 None of the checkboxes are checked meaning the results apply to all of them.  Filter the results by checking one or more of the checkboxes.  For example, selecting Nouns and Verbs as the parts of speech, and , Unified Compliance and Merriam-Webster as the dictionaries will result in:
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (1).png>)
 
 To see the results for a particular part-of-speech and dictionary, select the drop-down accordion of the part-of-speech first followed by the drop-down accordion of the dictionary:
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
 Here you will see the possible definitions for the selected part-of-speech.
 
