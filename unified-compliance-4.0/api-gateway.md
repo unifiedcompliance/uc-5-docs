@@ -1,6 +1,6 @@
 # API Gateway
 
-The Unified Compliance 5.0 application is also an API Gateway, ie. a software platform where your organization can interact with the Unified Compliance library of data. API developers can make API calls to the gateway to retrieve data.
+The Unified Compliance 4.0 application is also an API Gateway, ie. a software platform where your organization can interact with the Unified Compliance library of data. API developers can make API calls to the gateway to retrieve data.
 
 The gateway supports RESTful APIs that:
 
@@ -9,7 +9,7 @@ The gateway supports RESTful APIs that:
 * Implement standard HTTP methods such as GET
 * Utilize an API Key for authentication
 
-The onboarding flow of the Unified Compliance 5.0 application will guide you through the process of registering, which includes:
+The onboarding flow of the Unified Compliance 4.0 application will guide you through the process of registering, which includes:
 
 * Creation of your Organization
 * Creation of your Administrator user and Account
