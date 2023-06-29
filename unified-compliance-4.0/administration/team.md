@@ -4,6 +4,8 @@ description: Follow the steps below to invite team members to your account.
 
 # Team
 
+Follow these steps to invite more team members to your account:
+
 **Step 1:  Choose **_**Team**_
 
 Beneath Administration on the left side of the application, choose _Team_.
@@ -24,26 +26,22 @@ Now choose _Invite User_. An email will be generated and sent to the email addre
 
 **Step 4:  User Accepts Invitation**
 
-After selecting the link (in the email) to accept the invitation, the user will be navigated to the registration form. They will see a message that the Administrator of their organization invited them, and they can specify the following:
+After selecting the link (in the email) to accept the invitation, the user will be navigated to the registration form, where they can specify the following:
 
 * First Name (the first name of the user)
 * Last Name (the last name of the user)
 * Email Address (the email address of the user)
 * Password (the password of the user)
 
-The user will then select _Register and Accept Invite_.
+The user will then select _Register_.
 
 **Step 5:  Email Address Verification**
 
-An email will be generated and sent to the email address specified in Step 4, whereby the user can verify their email address. Once the user selects the link within the email, they will be navigated back to the application where they can then log in.
+An email will be generated and sent to the email address specified in Step 4, whereby the user can verify their email address. Once the user selects the link within the email, they will be navigated back to the application where they can then log in using the credentials specified in Step 4.
 
 **Step 6:  Sign In**
 
-The user will be prompted for their sign-in credentials, which are email address and password.
-
-**Step 7:  Accept the Terms of Use**
-
-The user will be presented with the Terms of Use. By scrolling to the bottom and pressing _I Accept_, they accept the terms of use and can access the application. Users (non-Administrators) are only allowed to update their profile information and will not have access to all of the other Administrator functions.
+The user will be prompted for their sign-in credentials, which are email address and password.  They will then be promptedto Accept the invite, and upon doing so, they will be taken intothe default account of the application. &#x20;
 
 **Manage Team Members**
 
