@@ -6,7 +6,7 @@ To create a PlantUML diagram, select _Create Diagram_ and then specify a Name, T
 
 To return to the list of diagrams page, select the PlantUML breadcrumb entry here:
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 From the listing page, you can search for diagrams using the main search bar and you can filter diagrams displayed by Visibility (Private or Community or All), Creator (who on your team created the diagram), and/or by Status.  You can also sort the results by any of the columns displayed, ie. Diagram Name, Diagram Type, Creator, Modifier, Modified Date, Status or Visibility.  Simply click on the column name to sort in ascending order or click it again to sort in descending order.
 
@@ -24,6 +24,6 @@ On the far right of a row in the listing page is the _Action_ menu.  Here you ca
 
 Access the _Action_ menu here:
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 Enjoy making PlantUML diagrams!
