@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Unified Compliance 4.0](README.md)
-  * [Setup](unified-compliance-4.0/setup.md)
+  * [On-Boarding Process](unified-compliance-4.0/on-boarding-process.md)
   * [Dictionary](unified-compliance-4.0/dictionary.md)
   * [PlantUML](unified-compliance-4.0/plantuml.md)
   * [Administration](unified-compliance-4.0/administration/README.md)
