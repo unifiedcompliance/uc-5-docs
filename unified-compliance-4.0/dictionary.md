@@ -6,7 +6,7 @@ From the main navigation menu, select _Dictionaries_ and then select _Search_.  
 
 By default (unless a pre-filter on Dictionary provider was set), the system will return the results found for all Dictionary providers and applicable parts of speech.  None of the filter checkboxes are checked meaning the results apply to all of them.  Filter the results by checking one or more of the checkboxes.  For example, selecting Nouns and Verbs as the parts of speech, and, Unified Compliance and Merriam-Webster as the dictionaries will result in only those results being displayed.
 
-To see the results for a particular part-of-speech and dictionary, select the drop-down accordion of the part-of-speech first followed by the drop-down accordion of the dictionary.  Here you will see all the possible definitions for the selected part-of-speech.  You can then select the _Add_ button to add that term and definition to a glossary (this requires adding a Glossary first).
+To see the results for a particular part-of-speech and dictionary, select the drop-down accordion of the part-of-speech first followed by the drop-down accordion of the dictionary.  Here you will see all the possible definitions for the selected part-of-speech.  You can then select the _Add_ button to add that term and definition to a glossary (this requires adding a Glossary first).  Note: Only users with the Owner, Administrator or Editor role can add terms to a glossary - see the Team page documentation for more details.
 
 To clear all selections / filters, choose the _Clear Filters_ option.
 
@@ -14,15 +14,31 @@ To perform a new search for another term, choose _Clear Search_ (or simply enter
 
 **Glossaries**
 
-You can create Glossaries and add terms you search for to an applicable Glossary, or, manually add terms to a Glossary.  Select _Glossaries_ from the left side navigation and then select the _Create Glossary_ button.  Give the glossary a name and description and then select _Add_.  The glossary will then appear in the list of glossaries for the workspace, where you can use the right hand side Action menu to perform actions on a glossary:
+You can create Glossaries and add terms you search for to an applicable Glossary, or, manually add terms to a Glossary.  Select _Glossaries_ from the left side navigation and then select the _Create Glossary_ button.  Note: Only users with the Owner, Administrator or Editor role can create glossaries - see the Team page documentation for more details.  Give the glossary a name and description and then select _Add_.  The glossary will then appear in the list of glossaries for the workspace, where you can then use the right hand side Action menu (only available to Owners, Administrators, and Editors) to perform actions on a glossary:
 
 * Rename - modify the name and/or description of the glossary
 * Edit - modify the contents of the glossary (ie. manage the Terms in it).  You can also simply click on a glossary in the list to manage its contents
 * Duplicate - create a duplicate of the glossary (and rename it accordingly)
 * Delete - remove a glossary
 
+Each glossary has a dropdown status column (only available to Owners, Administrators and Editors) where you can set the status to Draft, Submitted, Reviewed, Approved or Rejected.
+
 Once a glossary is created, you can add Terms to it directly from the search results screen or you can manually add terms to it.
 
 From the Search results screen,. simply select the _Add_ button next to the Term & Definition pair that you would like to add to a Glossary.  The term, part-of-speech, and definition will be pre-populated - simply select the Glossary to add to from the drop down list and then select _Add._
 
 There is no limit to the number of terms/definitions that can be added to a Glossary nor the number of Glossaries you create.
+
+**Terms**
+
+Once you have selected a glossary you will see the list of terms that have been added to that glossary.  Each term will have a right hand side Action menu (only available to Owners, Administrators and Editors) where you can:
+
+Edit - make modifications to the term (only available for terms that have been manually added, ie. the source is "Custom")
+
+Duplicate - make a copy of the term
+
+Delete - remove the term from the glossary
+
+Click on a term and you will see all of the details of that term including the definition and the attribution.
+
+Each term has a dropdown status column (only available to Owners, Administrators and Editors) where you can set the status to Draft, Submitted, Reviewed, Approved or Rejected.

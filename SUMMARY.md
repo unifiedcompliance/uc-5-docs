@@ -1,15 +1,13 @@
 # Table of contents
 
 * [Unified Compliance 4.0](README.md)
-  * [On-Boarding Process](unified-compliance-4.0/on-boarding-process.md)
+  * [On-Boarding](unified-compliance-4.0/on-boarding.md)
   * [Dictionary](unified-compliance-4.0/dictionary.md)
   * [PlantUML](unified-compliance-4.0/plantuml.md)
+  * [Profile](unified-compliance-4.0/profile.md)
   * [Administration](unified-compliance-4.0/administration/README.md)
-    * [Account Settings](unified-compliance-4.0/administration/account-settings.md)
+    * [Workspace Settings](unified-compliance-4.0/administration/workspace-settings.md)
     * [Team](unified-compliance-4.0/administration/team.md)
     * [Billing](unified-compliance-4.0/administration/billing.md)
     * [Subscription](unified-compliance-4.0/administration/subscription.md)
-    * [Tokens](unified-compliance-4.0/administration/tokens.md)
-    * [Calculator](unified-compliance-4.0/administration/calculator.md)
-    * [Transactions](unified-compliance-4.0/administration/transactions.md)
   * [API Gateway](unified-compliance-4.0/api-gateway.md)
