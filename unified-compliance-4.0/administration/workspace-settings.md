@@ -24,8 +24,8 @@ Choose one of the options above and then select _Update_ to save the changes.
 
 The Sharing tab allows you to configure whether your workspace can contribute / publish PlantUML diagrams to the Community or not.  After specifying a handle and display name and saving them, the _Publish / Unpublish_ options will appear for your PlantUML diagrams.
 
-* Unique Handle - specify a handle value for your workspace. This will appear in the Authority Source column of your diagrams in the PlantUML Community tab.  Value must be unique across the system (Note:  stop typing and a notification will appear for uniqueness).
-* Display Name - specify a display name value for your workspace. This will appear in the Authority Source column of your diagrams in the PlantUML Community tab.
+* Unique Handle - specify a handle value for your workspace. This will appear in the Authority Source column of your diagrams in the PlantUML Community tab.  The value must be unique across the system (when you stop typing a notification will appear whether the value is unique or not).
+* Display Name - specify a display name for your workspace. This will appear in the Authority Source column of your diagrams in the PlantUML Community tab.
 
 Select _Update_ to save your changes.
 
@@ -37,4 +37,4 @@ The API tab allows you to generate API Keys for your workspace.  A valid API Key
 
 Enter a name for the API Key and then select _Create_.  The new API Key will appear. [CAUTION](https://gitlab.com/UnifiedCompliance/software/unified-compliance-frontend/-/merge\_requests)! Be sure to use the _Copy API Key_ button to immediately copy the API key as it will no longer be visible to you once you leave the page.  Optionally use the _Revoke_ button to remove an API Key.
 
-The list of API Keys created in your workspace will then appear where you can manage them accordingly (modify a name or revoke).
+The list of API Keys created in your workspace will then appear where you can manage them accordingly (modify the name or revoke).
