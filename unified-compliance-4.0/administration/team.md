@@ -1,57 +1,57 @@
 ---
-description: Follow the steps below to invite team members to your account.
+description: Use the Team page to manage the members of your workspace.
 ---
 
 # Team
 
+**Invite Users**
+
 Follow these steps to invite more team members to your account:
 
-**Step 1:  Choose **_**Team**_
+Step 1:  Choose _Team_
 
-Beneath Administration on the left side of the application, choose _Team_.
+Select the top right navigation menu (avatar), then select _Team_.
 
-**Step 2:  Choose **_**Invite User**_
+Step 2:  Enter Email Address
 
-Press the _Invite User_ button on the Team page.
+Enter the email address of the user to invite.  Then choose the appropriate Role.  See below for the full list of permissions of roles.
 
-**Step 3:  Specify User Details**
+Step 3:  Add More
 
-In the modal window presented, enter the following:
+Should you need to invite more than one user, select the _+Add More_ option, then enter the email address and choose the role.  Repeat as necessary.
 
-* First Name (the first name of the user)
-* Last Name (the last name of the user)
-* Email Address (the email address of the user)
+Step 4:  Invite
 
-Now choose _Invite User_. An email will be generated and sent to the email address specified. Upon receipt, the user can accept the invitation via the link within the email. (see Step 4 below).
+Now select the _Invite_ button. An email will be generated and sent to the email address(s) specified. Upon receipt, the user can accept the invitation via the link within the email.
 
-**Step 4:  User Accepts Invitation**
+Step 5:  User Accepts Invitation
 
-After selecting the link (in the email) to accept the invitation, the user will be navigated to the registration form, where they can specify the following:
+After selecting the link in the invitation email, the user will be navigated to the registration / sign-in form.  If they are a new user to the system, they will select Sign Up, otherwise if they are already a user (perhaps as a member of another workspace) then they can just sign in with their existing credentials.  They will then be prompted to accept the invitation.
 
-* First Name (the first name of the user)
-* Last Name (the last name of the user)
-* Email Address (the email address of the user)
-* Password (the password of the user)
+Step 6:  Email Address Verification
 
-The user will then select _Register_.
-
-**Step 5:  Email Address Verification**
-
-An email will be generated and sent to the email address specified in Step 4, whereby the user can verify their email address. Once the user selects the link within the email, they will be navigated back to the application where they can then log in using the credentials specified in Step 4.
-
-**Step 6:  Sign In**
-
-The user will be prompted for their sign-in credentials, which are email address and password.  They will then be promptedto Accept the invite, and upon doing so, they will be taken intothe default account of the application. &#x20;
+After registration and acceptance of the invitation, an email will be generated and sent to the email address specified whereby the user can verify their email address. Once the user selects the link within the email, they will be navigated back to the application where they can then log in using the credentials specified in Step 5.
 
 **Manage Team Members**
 
-You can utilize the Team page to manage existing team members as well. The following functions are available:
+You can utilize the Team page to manage team members. &#x20;
 
-* Copy API Key - use this to copy the API Key that is unique per user
-* Refresh - use this to generate a new API Key for the user
-* Promote - use this to modify the user type from _User_ to _Admin (only available for Active users)_
-* Demote - use this to modify the user type from Admin to User (_only available for Active users_)
-* Revoke - use this to modify the status of the user from Active to Disabled (_only available for Active users_)
-* Activate - use this to modify the status of the user from Disabled to Active (_only available for Disabled users_)
+**Team Members tab**
 
-**NOTE**:  REST API's are available to perform the above administrative functions should you need to do so via an API - contact Support for more details.
+The Team Members tab contains all users that are in your workspace.  To remove a user from the workspace, select the "..." menu on the right and then select _Remove User_.
+
+**Pending tab**
+
+The Pending tab contains all users that have a pending invitation (have not accepted yet).  To resend an invitation to the user, select the "..." menu on the right and then select _Resend Invite_. To remove a user from the pending list, select the "..." menu on the right and then select _Remove User_.
+
+Owners and Administrators can also change the role of an existing user.  However, only the Owner of the workspace can make another user the Owner (and when doing so the previous Owner will become an Administrator).   To change the role of a user, simply select the new role from the dropdown list and it will be saved.  The following roles are available:
+
+* Owner -  the user that originally created the workspace. Has access to all functions.
+* Administrator - has access to most of the functions an Owner does
+* Editor - can edit content but does not have access to the administrative functions
+* Billing - has access to the Plans and Billing page
+* Reader - has access to most functions but cannot edit content (read-only)
+
+The following grid displays the features/functions in the system and which roles have access to them:
+
+<img src="../../.gitbook/assets/image.png" alt="" data-size="original">
