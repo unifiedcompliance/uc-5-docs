@@ -8,6 +8,6 @@
   * [Administration](unified-compliance-4.0/administration/README.md)
     * [Workspace Settings](unified-compliance-4.0/administration/workspace-settings.md)
     * [Team](unified-compliance-4.0/administration/team.md)
+    * [Plans](unified-compliance-4.0/administration/plans.md)
     * [Billing](unified-compliance-4.0/administration/billing.md)
-    * [Subscription](unified-compliance-4.0/administration/subscription.md)
   * [API Gateway](unified-compliance-4.0/api-gateway.md)
