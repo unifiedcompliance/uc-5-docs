@@ -13,11 +13,11 @@ On the Billing page, you can manage:
 
 #### Manage Billing Contact
 
-In order to enter into a subscription, you set up a billing contact.  To make changes to that contact, simply select _Update billing contact_, make the appropriate changes, and select _Save_.
+In order to enter into a subscription, you set up a billing contact.  To make changes to that contact, simply select _Update invoice details_, make the appropriate changes, and select _Save_.
 
 #### Manage Payment Method
 
-In order to enter into a subscription, you set up a default payment method.  Your default payment method will be used for recurring charges, such as the annual renewal of your subscription. To make changes to that payment method, simply select _Update payment method_, make the appropriate changes, and select _Save_.  You can also change to another payment method (credit card and ACH are available).
+In order to enter into a subscription, you set up a default payment method.  Your default payment method will be used for recurring charges, such as the annual renewal of your subscription. To make changes to that payment method, simply select _Update payment details_, make the appropriate changes, and select _Save_.  You can also change to another payment method (credit card and ACH are available).
 
 #### View Invoices
 
