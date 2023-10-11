@@ -7,7 +7,7 @@ description: Manage billing contact, payment method and view invoices
 On the Billing page, you can manage:
 
 * Manage your billing contact
-* Manage you payment method on file
+* Manage your payment method on file
 * View & download Invoices
 * View & download token transactions
 
