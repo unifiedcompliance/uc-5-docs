@@ -15,7 +15,7 @@ Welcome to Unified Compliance 4.0!  This all-in-one application provides you wit
   * Oxford
   * Cambridge
   * Wordnik
-  * Free
+  * Wiktionary
 * Create and manage one or more Glossaries that contain the terms important to your organization
 * Create, share, and publish PlantUML diagrams
 * Create and manage a standardized account
