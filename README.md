@@ -6,7 +6,7 @@ description: >-
 
 # Unified Compliance 4.0
 
-![](.gitbook/assets/unified\_compliance\_logo.png)
+![](.gitbook/assets/UCF\_LOGO\_NEW\_200x200.png)
 
 Welcome to Unified Compliance 4.0!  This all-in-one application provides you with the ability to:
 
