@@ -8,7 +8,6 @@
       * [Why use diagramming as code tools?](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/why-use-diagramming-as-code-tools.md)
       * [Use Cases](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/use-cases.md)
       * [Schema](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/schema.md)
-      * [Wireframes](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/wireframes.md)
       * [Installing your own instance of PlantUML](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/installing-your-own-instance-of-plantuml.md)
       * [Syntax](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/syntax/README.md)
         * [Getting Started](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/syntax/getting-started.md)
