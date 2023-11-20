@@ -4,7 +4,7 @@
   * [On-Boarding](unified-compliance-4.0/on-boarding.md)
   * [Dictionary](unified-compliance-4.0/dictionary.md)
   * [PlantUML](unified-compliance-4.0/plantuml/README.md)
-    * [Syntax](readme/plantuml/syntax.md)
+    * [Syntax](runified-compliance-4.0/plantuml/plantuml-diagrams-as-code/README.md)
   * [Profile](unified-compliance-4.0/profile.md)
   * [Administration](unified-compliance-4.0/administration/README.md)
     * [Workspace Settings](unified-compliance-4.0/administration/workspace-settings.md)
