@@ -6,6 +6,7 @@
   * [PlantUML](unified-compliance-4.0/plantuml/README.md)
     * [Diagrams As Code](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/README.md)
       * [Activity Diagram](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/activity-diagram/README.md)
+        * [Actions and Other Objects](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/activity-diagram/actions-and-other-objects.md)
       * [Class Diagram](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/class-diagram/README.md)
       * [Object Diagram](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/object-diagram/README.md)
       * [Sequence Diagram](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/sequence-diagram/README.md)
