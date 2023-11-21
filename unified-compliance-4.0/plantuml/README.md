@@ -29,4 +29,4 @@ The visibility value can be Private or Community.  Private diagrams can only be 
 
 **Community**
 
-This tab contains all diagrams that have been published to the community.  All users in the system can view community diagrams.  Click on any diagram to see the UML code.  If your organization created a diagram, then the right hand side Action  menu will contain all of the actions (assuming the user is Owner/Administrator/Editor) - see the list of actions above.  Otherwise, you will only be able to Duplicate or Export a community diagram.
+This tab contains all diagrams that have been published to the community.  All users in the system can view community diagrams.  Click on any diagram to see the UML code.  If your organization created a diagram, then the right hand side Action menu will not contain the Rename, Edit, or Delete actions - you must Unpublish your diagram first before you can make changes to it.  For diagrams published by others, you will only be able to duplicate or export a community diagram.
