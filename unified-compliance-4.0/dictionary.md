@@ -1,6 +1,6 @@
 # Dictionary
 
-The Dictionary module allows you to look up a term against several different dictionary providers, including, the Unified Compliance Dictionary.  We have integrated with the following third party Dictionary providers:  Merriam-Webster, Oxford, Cambridge, Wordnik, and Free.&#x20;
+The Dictionary module allows you to look up a term against several different dictionary providers, including, the Unified Compliance Dictionary.  We have integrated with the following third party Dictionary providers:  Merriam-Webster, Oxford, Wordnik, and Wiktionary.&#x20;
 
 From the main navigation menu, select _Dictionaries_ and then select _Search_.  Enter a term and select _Search_ and the system will query all 6 dictionaries (unless filtered to a smaller list) and display a consolidated list of results grouped by the part-of-speech for the term and then by dictionary provider.  There are 10 possible part-of-speech categories:  Noun, Verb, Pronoun, Adjective, Adverb, Preposition, Conjunction, Interjection, Undefined, and Other.
 
