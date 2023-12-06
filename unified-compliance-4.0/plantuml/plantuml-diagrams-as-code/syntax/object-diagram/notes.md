@@ -32,7 +32,7 @@ note left of Object1 : A Note
 @enduml
 ```
 
-![Note Declaration](<../../../../.gitbook/assets/Notes01\_declaration (2).png>)
+![Note Declaration](<../../../../../.gitbook/assets/Notes01\_declaration (2).png>)
 
 ## Properties
 
@@ -88,7 +88,7 @@ note bottom of Object2 : Yet Another Note
 @enduml
 ```
 
-![Note Orientation](../../../../.gitbook/assets/Notes02\_orientation.png)
+![Note Orientation](../../../../../.gitbook/assets/Notes02\_orientation.png)
 
 ### Anchor
 
@@ -126,7 +126,7 @@ note on link : Another Note
 @enduml
 ```
 
-![Note Anchors](../../../../.gitbook/assets/Notes03\_anchors.png)
+![Note Anchors](../../../../../.gitbook/assets/Notes03\_anchors.png)
 
 ### Fill Color
 
@@ -166,7 +166,7 @@ end note
 @enduml
 ```
 
-![Note Fill Colors](<../../../../.gitbook/assets/Notes04\_fill\_color (1).png>)
+![Note Fill Colors](<../../../../../.gitbook/assets/Notes04\_fill\_color (1).png>)
 
 ### Text
 
@@ -209,7 +209,7 @@ end note
 @enduml
 ```
 
-![Note Text](../../../../.gitbook/assets/Notes05\_text.png)
+![Note Text](../../../../../.gitbook/assets/Notes05\_text.png)
 
 ### With All Properties
 
@@ -241,7 +241,7 @@ end note
 @enduml
 ```
 
-![Notes With All Properties](../../../../.gitbook/assets/Notes06\_all\_properties.png)
+![Notes With All Properties](../../../../../.gitbook/assets/Notes06\_all\_properties.png)
 
 
 
@@ -304,7 +304,7 @@ Object2 .. noteAlias_1
 @enduml
 ```
 
-![Attached Notes](../../../../.gitbook/assets/Notes07\_attached\_notes.png)
+![Attached Notes](../../../../../.gitbook/assets/Notes07\_attached\_notes.png)
 
 ### Fill Color
 
@@ -350,4 +350,4 @@ Object2 .. noteAlias_1
 @enduml
 ```
 
-![Attached Notes Color](../../../../.gitbook/assets/Notes08\_attached\_notes\_color.png)
+![Attached Notes Color](../../../../../.gitbook/assets/Notes08\_attached\_notes\_color.png)

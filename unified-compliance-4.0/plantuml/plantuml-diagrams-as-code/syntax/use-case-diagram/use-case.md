@@ -23,7 +23,7 @@ usecase Check
 @enduml
 ```
 
-![Use Case Declaration](../../../../.gitbook/assets/UseCase01\_Declaration.png)
+![Use Case Declaration](../../../../../.gitbook/assets/UseCase01\_Declaration.png)
 
 ## Properties
 
@@ -62,7 +62,7 @@ usecase (Check\nCustomers)
 @enduml
 ```
 
-![Use Case Description](../../../../.gitbook/assets/UseCase02\_description.png)
+![Use Case Description](../../../../../.gitbook/assets/UseCase02\_description.png)
 
 ### Business
 
@@ -83,7 +83,7 @@ usecase/ Check
 @enduml
 ```
 
-![Business Use Case](../../../../.gitbook/assets/UseCase03\_business.png)
+![Business Use Case](../../../../../.gitbook/assets/UseCase03\_business.png)
 
 ### Alias
 
@@ -118,7 +118,7 @@ Zarek -- (Stock\nShelves)
 @enduml
 ```
 
-![Use Case Alias](../../../../.gitbook/assets/UseCase04\_alias.png)
+![Use Case Alias](../../../../../.gitbook/assets/UseCase04\_alias.png)
 
 ### Stereotype
 
@@ -137,7 +137,7 @@ usecase (Clock In) <<General Duty>>
 @enduml
 ```
 
-![Use Case Stereotype](../../../../.gitbook/assets/UseCase05\_stereotype.png)
+![Use Case Stereotype](../../../../../.gitbook/assets/UseCase05\_stereotype.png)
 
 ### Fill Color
 
@@ -158,7 +158,7 @@ usecase (Clock In) #red
 @enduml
 ```
 
-![Use Case Fill Color](../../../../.gitbook/assets/UseCase06\_fill\_color.png)
+![Use Case Fill Color](../../../../../.gitbook/assets/UseCase06\_fill\_color.png)
 
 ### Line Color
 
@@ -179,7 +179,7 @@ usecase (Clock In) #line:red
 @enduml
 ```
 
-![Use Case Line Color](../../../../.gitbook/assets/UseCase07\_line\_color.png)
+![Use Case Line Color](../../../../../.gitbook/assets/UseCase07\_line\_color.png)
 
 ### Line Type
 
@@ -211,7 +211,7 @@ usecase (Clock In) #line.bold
 @enduml
 ```
 
-![Use Case Line Type](../../../../.gitbook/assets/UseCase08\_line\_type.png)
+![Use Case Line Type](../../../../../.gitbook/assets/UseCase08\_line\_type.png)
 
 ### Text Color
 
@@ -237,7 +237,7 @@ usecase (Clock In) <<General Duty>> #text:red
 @enduml
 ```
 
-![Use Case Text Color](../../../../.gitbook/assets/UseCase09\_text\_color.png)
+![Use Case Text Color](../../../../../.gitbook/assets/UseCase09\_text\_color.png)
 
 ### With All Properties
 
@@ -256,7 +256,7 @@ usecase/ (<font color=FFFFFF>Stock Shelves</font>) as stock <<Cashier Duty>> #56
 @enduml
 ```
 
-![Use Case With All Properties](../../../../.gitbook/assets/UseCase10\_all\_properties.png)
+![Use Case With All Properties](../../../../../.gitbook/assets/UseCase10\_all\_properties.png)
 
 ## Special Description
 
@@ -299,4 +299,4 @@ In Bucket
 @enduml
 ```
 
-![Use Case Special Description](../../../../.gitbook/assets/UseCase11\_special\_description.png)
+![Use Case Special Description](../../../../../.gitbook/assets/UseCase11\_special\_description.png)

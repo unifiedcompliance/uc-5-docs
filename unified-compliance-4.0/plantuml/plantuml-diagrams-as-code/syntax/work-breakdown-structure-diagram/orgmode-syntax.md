@@ -18,7 +18,7 @@ The basic node is declared by an asterisk followed by the text you wish to appea
 @endwbs
 ```
 
-![Node](<../../../../.gitbook/assets/01Node\_OM\_Declaration copy.png>)
+![Node](<../../../../../.gitbook/assets/01Node\_OM\_Declaration copy.png>)
 
 ## Properties
 
@@ -66,7 +66,7 @@ Empty space before the **depth** asterisk will cause an error. Spaces before the
 @endwbs
 ```
 
-![Node Depth](../../../../.gitbook/assets/02Node\_OM\_depth.png)
+![Node Depth](../../../../../.gitbook/assets/02Node\_OM\_depth.png)
 
 ### Direction
 
@@ -103,7 +103,7 @@ Replacing an asterisk with a dash will cause the node to move to the left of its
 @endwbs
 ```
 
-![Node Direction](../../../../.gitbook/assets/03Node\_OM\_direction.png)
+![Node Direction](../../../../../.gitbook/assets/03Node\_OM\_direction.png)
 
 ### Boxes
 
@@ -142,7 +142,7 @@ Note: **fill\_color** can not be used in conjunction with a false **box** node.
 @endwbs
 ```
 
-![Node Boxes](../../../../.gitbook/assets/04Node\_OM\_box.png)
+![Node Boxes](../../../../../.gitbook/assets/04Node\_OM\_box.png)
 
 ### Fill Color
 
@@ -180,7 +180,7 @@ Note: **fill\_color** can not be used in conjunction with a false **box** node.
 @endwbs
 ```
 
-![Node Fill Color](../../../../.gitbook/assets/05Node\_OM\_fill\_color.png)
+![Node Fill Color](../../../../../.gitbook/assets/05Node\_OM\_fill\_color.png)
 
 ### Text
 
@@ -225,7 +225,7 @@ Node **text** also support icons from OpenIconic.
 @endwbs
 ```
 
-![Node Text](<../../../../.gitbook/assets/06Node\_OM\_text (3).png>)
+![Node Text](<../../../../../.gitbook/assets/06Node\_OM\_text (3).png>)
 
 ### Style Label
 
@@ -271,7 +271,7 @@ wbsDiagram {
 @endwbs
 ```
 
-![Node Style Label](../../../../.gitbook/assets/07Node\_OM\_style\_label.png)
+![Node Style Label](../../../../../.gitbook/assets/07Node\_OM\_style\_label.png)
 
 ### With All Properties
 
@@ -309,4 +309,4 @@ wbsDiagram {
 @endwbs
 ```
 
-![Nodes With All Properties](../../../../.gitbook/assets/08Node\_OM\_all\_properties.png)
+![Nodes With All Properties](../../../../../.gitbook/assets/08Node\_OM\_all\_properties.png)

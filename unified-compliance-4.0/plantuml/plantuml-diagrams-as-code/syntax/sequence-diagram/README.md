@@ -4,4 +4,4 @@ A UML sequence diagram is an interaction diagram that shows messages passing bet
 
 Below is a basic example of three participants communicating with each other.&#x20;
 
-![Sequence Diagram](../../../../.gitbook/assets/00SequenceDiagram.png)
+![Sequence Diagram](../../../../../.gitbook/assets/00SequenceDiagram.png)

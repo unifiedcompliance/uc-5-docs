@@ -18,7 +18,7 @@ class Name
 @enduml
 ```
 
-![Declaring Classes](../../../../.gitbook/assets/Classes01\_declaration.png)
+![Declaring Classes](../../../../../.gitbook/assets/Classes01\_declaration.png)
 
 ## Shorthand
 
@@ -74,7 +74,7 @@ abstract class  abstract_class
 @enduml
 ```
 
-![Class Types](../../../../.gitbook/assets/Classes02\_type.png)
+![Class Types](../../../../../.gitbook/assets/Classes02\_type.png)
 
 ### Name
 
@@ -97,7 +97,7 @@ class "<color:#561D5E><b>Personal Care</b></color>"
 @enduml
 ```
 
-![Class Names](../../../../.gitbook/assets/Classes03\_name.png)
+![Class Names](../../../../../.gitbook/assets/Classes03\_name.png)
 
 ### Alias
 
@@ -128,7 +128,7 @@ class "<color:#561D5E><b>Personal Care</b></color>" as PersCare
 @enduml
 ```
 
-![Class Alias](../../../../.gitbook/assets/Classes04\_alias.png)
+![Class Alias](../../../../../.gitbook/assets/Classes04\_alias.png)
 
 ### Generic
 
@@ -152,7 +152,7 @@ class "Personal Care" <**generic descriptor**>
 @enduml
 ```
 
-![Class Generics](../../../../.gitbook/assets/Classes05\_generic.png)
+![Class Generics](../../../../../.gitbook/assets/Classes05\_generic.png)
 
 ### Stereotype
 
@@ -176,7 +176,7 @@ class "Personal Care" <<**Auxiliary**>>
 @enduml
 ```
 
-![Class Stereotypes](../../../../.gitbook/assets/Classes06\_stereotype.png)
+![Class Stereotypes](../../../../../.gitbook/assets/Classes06\_stereotype.png)
 
 #### Spot Letter
 
@@ -204,7 +204,7 @@ class "Personal Care" << (P,#FF7700) >>
 @enduml
 ```
 
-![Class Spot Letter](<../../../../.gitbook/assets/Classes07\_spot\_letter (1).png>)
+![Class Spot Letter](<../../../../../.gitbook/assets/Classes07\_spot\_letter (1).png>)
 
 ### Body Color
 
@@ -229,7 +229,7 @@ class "Personal Care" #back:561D5E/FFFFFF;
 @enduml
 ```
 
-![Class Body Color](../../../../.gitbook/assets/Classes08\_body\_color.png)
+![Class Body Color](../../../../../.gitbook/assets/Classes08\_body\_color.png)
 
 ### Header Color
 
@@ -257,7 +257,7 @@ class "Personal Care" #back:561D5E/FFFFFF;header:purple
 @enduml
 ```
 
-![Class Header Color](../../../../.gitbook/assets/Classes09\_header\_color.png)
+![Class Header Color](../../../../../.gitbook/assets/Classes09\_header\_color.png)
 
 ### Line Color
 
@@ -280,7 +280,7 @@ class "Personal Care" #line:561D5E/FFFFFF
 @enduml
 ```
 
-![Class Line Color](../../../../.gitbook/assets/Classes10\_line\_color.png)
+![Class Line Color](../../../../../.gitbook/assets/Classes10\_line\_color.png)
 
 ### Line Style
 
@@ -315,7 +315,7 @@ class Cooking #line.bold
 @enduml
 ```
 
-![Class Line Style](../../../../.gitbook/assets/Classes11\_line\_style.png)
+![Class Line Style](../../../../../.gitbook/assets/Classes11\_line\_style.png)
 
 ### Text Color
 
@@ -338,7 +338,7 @@ class "Personal Care" #text:561D5E
 @enduml
 ```
 
-![Class Text Color](<../../../../.gitbook/assets/Classes12\_text\_color (1).png>)
+![Class Text Color](<../../../../../.gitbook/assets/Classes12\_text\_color (1).png>)
 
 ### Body
 
@@ -360,7 +360,7 @@ class Store {
 @enduml
 ```
 
-![Class Body](<../../../../.gitbook/assets/Classes13\_body (1).png>)
+![Class Body](<../../../../../.gitbook/assets/Classes13\_body (1).png>)
 
 ### With All Properties
 
@@ -378,7 +378,7 @@ class "class_name" as alias <generic> << (N,orchid) stereotype>> #back:blue/red;
 @enduml
 ```
 
-![Class With All Properties](../../../../.gitbook/assets/Classes99\_everything.png)
+![Class With All Properties](../../../../../.gitbook/assets/Classes99\_everything.png)
 
 ## Other Entities
 
@@ -422,4 +422,4 @@ diamond diamond_name_1
 @enduml
 ```
 
-![Circle and Diamond Entities](../../../../.gitbook/assets/Classes14\_circle.png)
+![Circle and Diamond Entities](../../../../../.gitbook/assets/Classes14\_circle.png)

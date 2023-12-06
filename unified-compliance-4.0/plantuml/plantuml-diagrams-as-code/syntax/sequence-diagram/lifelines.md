@@ -20,7 +20,7 @@ participant Zarek
 @enduml
 ```
 
-![Declaring Lifelines](../../../../.gitbook/assets/01\_Lifelines\_declaringLifelines.png)
+![Declaring Lifelines](../../../../../.gitbook/assets/01\_Lifelines\_declaringLifelines.png)
 
 ## Properties
 
@@ -67,7 +67,7 @@ queue       queue
 @enduml
 ```
 
-![Participant Type](../../../../.gitbook/assets/02\_Lifeline\_participant\_type.png)
+![Participant Type](../../../../../.gitbook/assets/02\_Lifeline\_participant\_type.png)
 
 ### Name
 
@@ -91,7 +91,7 @@ participant "Zarek \nThe Guy With \nCurly Hair"
 @enduml
 ```
 
-![Name](../../../../.gitbook/assets/03\_Lifelines\_name.png)
+![Name](../../../../../.gitbook/assets/03\_Lifelines\_name.png)
 
 ### Display Name
 
@@ -115,7 +115,7 @@ participant Zarek as "<color:#FF0000>**Zarek**</color>"
 @enduml
 ```
 
-![Display Name](../../../../.gitbook/assets/04\_Lifelines\_display\_name.png)
+![Display Name](../../../../../.gitbook/assets/04\_Lifelines\_display\_name.png)
 
 ### Formatted Name
 
@@ -139,7 +139,7 @@ participant "<color:#FF0000>**Zarek**</color>"
 @enduml
 ```
 
-![Formatted Name](../../../../.gitbook/assets/05\_Lifelines\_formatted\_name.png)
+![Formatted Name](../../../../../.gitbook/assets/05\_Lifelines\_formatted\_name.png)
 
 ### Variable Name
 
@@ -169,7 +169,7 @@ Sean -> Zarek
 @enduml
 ```
 
-![Variable Name](<../../../../.gitbook/assets/06\_Lifelines\_variable\_name copy.png>)
+![Variable Name](<../../../../../.gitbook/assets/06\_Lifelines\_variable\_name copy.png>)
 
 ### Background Color
 
@@ -194,7 +194,7 @@ queue Maria as "<color:#White>Mia</color>" #561D5E/000000
 @enduml
 ```
 
-![Background Color](../../../../.gitbook/assets/07\_Lifelines\_background\_color.png)
+![Background Color](../../../../../.gitbook/assets/07\_Lifelines\_background\_color.png)
 
 ### Stereotype
 
@@ -219,7 +219,7 @@ participant Zarek << (O,#FF0000) The Oldest >>
 @enduml
 ```
 
-![Stereotypes](../../../../.gitbook/assets/08\_Lifelines\_stereotype.png)
+![Stereotypes](../../../../../.gitbook/assets/08\_Lifelines\_stereotype.png)
 
 ### Order Number
 
@@ -243,7 +243,7 @@ participant "Zarek the oldest" order 1
 @enduml
 ```
 
-![Order Number](../../../../.gitbook/assets/09\_Lifelines\_order\_number.png)
+![Order Number](../../../../../.gitbook/assets/09\_Lifelines\_order\_number.png)
 
 ## Undeclared Lifelines
 
@@ -268,7 +268,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Undeclared Lifelines](../../../../.gitbook/assets/Lifelines11\_undeclared\_lifelines.png)
+![Undeclared Lifelines](../../../../../.gitbook/assets/Lifelines11\_undeclared\_lifelines.png)
 
 ## Participants Creating New Lifelines
 
@@ -308,7 +308,7 @@ Maria --> Sean : Text
 @enduml
 ```
 
-![Participants Creating New Lifelines](../../../../.gitbook/assets/Lifelines10\_creation.png)
+![Participants Creating New Lifelines](../../../../../.gitbook/assets/Lifelines10\_creation.png)
 
 ## Visibility
 
@@ -341,4 +341,4 @@ Maria <- Sean : Text
 @enduml
 ```
 
-![Lifeline Visibility](../../../../.gitbook/assets/Lifelines12\_visibility.png)
+![Lifeline Visibility](../../../../../.gitbook/assets/Lifelines12\_visibility.png)

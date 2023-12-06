@@ -21,7 +21,7 @@ package Package1 {
 @enduml
 ```
 
-![](../../../../.gitbook/assets/Organization01\_packages.png)
+![](../../../../../.gitbook/assets/Organization01\_packages.png)
 
 ### Name
 
@@ -54,7 +54,7 @@ package "<color #561D5E><i>Package 2</i></color>" {
 @enduml
 ```
 
-![Package Name](../../../../.gitbook/assets/Organization02\_package\_name.png)
+![Package Name](../../../../../.gitbook/assets/Organization02\_package\_name.png)
 
 ### Types
 
@@ -96,7 +96,7 @@ package Database <<Database>> {
 @enduml
 ```
 
-![Package Types](../../../../.gitbook/assets/Organization03\_package\_type.png)
+![Package Types](../../../../../.gitbook/assets/Organization03\_package\_type.png)
 
 ### Body Color
 
@@ -123,7 +123,7 @@ package Package2 #009EA1/white {
 @enduml
 ```
 
-![Package Body Color](../../../../.gitbook/assets/Organization04\_package\_color.png)
+![Package Body Color](../../../../../.gitbook/assets/Organization04\_package\_color.png)
 
 ### Line Color
 
@@ -152,7 +152,7 @@ package Package2 #line:561D5E/white {
 @enduml
 ```
 
-![Package Line Color](../../../../.gitbook/assets/Organization05\_package\_linecolor.png)
+![Package Line Color](../../../../../.gitbook/assets/Organization05\_package\_linecolor.png)
 
 ### Line Style
 
@@ -189,7 +189,7 @@ package Package3 #line.dotted {
 @enduml
 ```
 
-![Package Line Style](../../../../.gitbook/assets/Organization06\_package\_linestyle.png)
+![Package Line Style](../../../../../.gitbook/assets/Organization06\_package\_linestyle.png)
 
 ### Body
 
@@ -221,7 +221,7 @@ ObjectA1 - ObjectB1
 @enduml
 ```
 
-![Package Body](../../../../.gitbook/assets/Organization07\_package\_body.png)
+![Package Body](../../../../../.gitbook/assets/Organization07\_package\_body.png)
 
 ### With All Properties
 
@@ -247,7 +247,7 @@ ObjectA1 - ObjectB1
 @enduml
 ```
 
-![Packages With All Properties](../../../../.gitbook/assets/Organization08\_package\_allProperties.png)
+![Packages With All Properties](../../../../../.gitbook/assets/Organization08\_package\_allProperties.png)
 
 
 
@@ -290,7 +290,7 @@ Object1 -- Object3
 @enduml
 ```
 
-![Visibility Starting Point](../../../../.gitbook/assets/Organization09\_1\_hide.png)
+![Visibility Starting Point](../../../../../.gitbook/assets/Organization09\_1\_hide.png)
 
 ### Hiding Showing and Removing Objects
 
@@ -334,7 +334,7 @@ remove Object3
 @enduml
 ```
 
-![Hiding, Showing, and Removing Objects](../../../../.gitbook/assets/Organization09\_2\_hide.png)
+![Hiding, Showing, and Removing Objects](../../../../../.gitbook/assets/Organization09\_2\_hide.png)
 
 ### Hiding and Showing Parts of Objects
 
@@ -380,7 +380,7 @@ show Object1 fields
 @enduml
 ```
 
-![Hiding and Showing Parts of Objects](../../../../.gitbook/assets/Organization09\_3\_hide.png)
+![Hiding and Showing Parts of Objects](../../../../../.gitbook/assets/Organization09\_3\_hide.png)
 
 ### Hiding and Removing Unlinked Objects
 
@@ -416,7 +416,7 @@ remove @unlinked
 @enduml
 ```
 
-![Hiding and Removing Unlinked Objects](../../../../.gitbook/assets/Organization09\_4\_hide.png)
+![Hiding and Removing Unlinked Objects](../../../../../.gitbook/assets/Organization09\_4\_hide.png)
 
 ### Positioning Object With Hidden Relation
 
@@ -452,7 +452,7 @@ Object2 -[hidden]- Object4
 @enduml
 ```
 
-![Positioning Object With Hidden Relation](../../../../.gitbook/assets/Organization09\_5\_hide.png)
+![Positioning Object With Hidden Relation](../../../../../.gitbook/assets/Organization09\_5\_hide.png)
 
 ## Page Breaks
 
@@ -495,6 +495,6 @@ page 3x2
 @enduml
 ```
 
-![](../../../../.gitbook/assets/Organization10\_page\_breaks.png) ![](../../../../.gitbook/assets/Organization10\_page\_breaks\_002.png) ![](../../../../.gitbook/assets/Organization10\_page\_breaks\_004.png)
+![](../../../../../.gitbook/assets/Organization10\_page\_breaks.png) ![](../../../../../.gitbook/assets/Organization10\_page\_breaks\_002.png) ![](../../../../../.gitbook/assets/Organization10\_page\_breaks\_004.png)
 
-![](../../../../.gitbook/assets/Organization10\_page\_breaks\_001.png) ![Page Breaks 3x2](../../../../.gitbook/assets/Organization10\_page\_breaks\_003.png) ![](../../../../.gitbook/assets/Organization10\_page\_breaks\_005.png)
+![](../../../../../.gitbook/assets/Organization10\_page\_breaks\_001.png) ![Page Breaks 3x2](../../../../../.gitbook/assets/Organization10\_page\_breaks\_003.png) ![](../../../../../.gitbook/assets/Organization10\_page\_breaks\_005.png)

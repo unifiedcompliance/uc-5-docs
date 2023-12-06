@@ -18,7 +18,7 @@ To declare associations in use case diagrams use characters to draw the connecti
 @enduml
 ```
 
-![Association Declaration](../../../../.gitbook/assets/Association01\_declaration.png)
+![Association Declaration](../../../../../.gitbook/assets/Association01\_declaration.png)
 
 ## Properties
 
@@ -55,7 +55,7 @@ Zarek -- Stock
 @enduml
 ```
 
-![Association Entities](<../../../../.gitbook/assets/Association02\_entities (1).png>)
+![Association Entities](<../../../../../.gitbook/assets/Association02\_entities (1).png>)
 
 ### Association Type
 
@@ -83,7 +83,7 @@ Association\_type is determined by a character drawing of a line or arrow. The t
 @enduml
 ```
 
-![Association Type](../../../../.gitbook/assets/Association03\_association\_type.png)
+![Association Type](../../../../../.gitbook/assets/Association03\_association\_type.png)
 
 ### Direction
 
@@ -120,7 +120,7 @@ left to right direction
 @enduml
 ```
 
-![Direction Parameter](../../../../.gitbook/assets/Association05\_direction\_parameter.png)
+![Direction Parameter](../../../../../.gitbook/assets/Association05\_direction\_parameter.png)
 
 #### Character Drawings
 
@@ -152,7 +152,7 @@ left to right direction
 @enduml
 ```
 
-![Direction Character Drawings](<../../../../.gitbook/assets/Association04\_direction\_character\_drawings (1).png>)
+![Direction Character Drawings](<../../../../../.gitbook/assets/Association04\_direction\_character\_drawings (1).png>)
 
 #### Directional Words
 
@@ -179,7 +179,7 @@ left to right direction
 @enduml
 ```
 
-![Directional Words](../../../../.gitbook/assets/Association06\_directional\_words.png)
+![Directional Words](../../../../../.gitbook/assets/Association06\_directional\_words.png)
 
 
 
@@ -199,7 +199,7 @@ The **line\_color** is defined by a standard color name or hex code. If you use 
 @enduml
 ```
 
-![Line Color](../../../../.gitbook/assets/Association07\_line\_color.png)
+![Line Color](../../../../../.gitbook/assets/Association07\_line\_color.png)
 
 ### Line Type
 
@@ -231,7 +231,7 @@ The **line\_types** are as follows.
 @enduml
 ```
 
-![Line Type](../../../../.gitbook/assets/Association08\_line\_type.png)
+![Line Type](../../../../../.gitbook/assets/Association08\_line\_type.png)
 
 ### Text Color
 
@@ -249,7 +249,7 @@ The **text\_color** determines the color of the **text** and is defined by a sta
 @enduml
 ```
 
-![Text Color](../../../../.gitbook/assets/Association09\_text\_color.png)
+![Text Color](../../../../../.gitbook/assets/Association09\_text\_color.png)
 
 ### Text
 
@@ -268,7 +268,7 @@ The **text** field can be used to describe the association between the two entit
 @enduml
 ```
 
-![Association Text](../../../../.gitbook/assets/Association10\_text.png)
+![Association Text](../../../../../.gitbook/assets/Association10\_text.png)
 
 ### With All Properties
 
@@ -284,4 +284,4 @@ The **text** field can be used to describe the association between the two entit
 @enduml
 ```
 
-![Association With All Properties](../../../../.gitbook/assets/Association11\_all\_properties.png)
+![Association With All Properties](../../../../../.gitbook/assets/Association11\_all\_properties.png)

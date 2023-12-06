@@ -20,7 +20,7 @@ Object01 - Object02
 @enduml
 ```
 
-![Declaring Object Relations](../../../../.gitbook/assets/Relations01\_declaration.png)
+![Declaring Object Relations](../../../../../.gitbook/assets/Relations01\_declaration.png)
 
 ## Parts of Relations
 
@@ -69,7 +69,7 @@ Object02 - MyMapTable::Cell01
 @enduml
 ```
 
-![Relation Entities](../../../../.gitbook/assets/Relations02\_entities.png)
+![Relation Entities](../../../../../.gitbook/assets/Relations02\_entities.png)
 
 ## Labels
 
@@ -99,7 +99,7 @@ Object02 - Object03 : <color #561D5E><b>Relation</b> <i>Text</i></color>
 @enduml
 ```
 
-![Relation Labels](../../../../.gitbook/assets/Relations03\_connections.png)
+![Relation Labels](../../../../../.gitbook/assets/Relations03\_connections.png)
 
 ## Connections
 
@@ -138,9 +138,9 @@ Object19 x--x   Object20
 @enduml
 ```
 
-![Arrowheads](../../../../.gitbook/assets/Relations04\_1\_connections\_arrowhead.png)
+![Arrowheads](../../../../../.gitbook/assets/Relations04\_1\_connections\_arrowhead.png)
 
-![Arrowheads](../../../../.gitbook/assets/Relations04\_2\_connections\_arrowhead.png)
+![Arrowheads](../../../../../.gitbook/assets/Relations04\_2\_connections\_arrowhead.png)
 
 ### Line Orientation
 
@@ -173,7 +173,7 @@ Up -- Center
 @enduml
 ```
 
-![Line Orientation Default](../../../../.gitbook/assets/Relations05\_line\_orientation.png)
+![Line Orientation Default](../../../../../.gitbook/assets/Relations05\_line\_orientation.png)
 
 #### Relative Directions
 
@@ -202,7 +202,7 @@ Center -up- Up
 @enduml
 ```
 
-![Line Orientation Relative Direction](../../../../.gitbook/assets/Relations06\_line\_orientation\_relative.png)
+![Line Orientation Relative Direction](../../../../../.gitbook/assets/Relations06\_line\_orientation\_relative.png)
 
 ### Line Types
 
@@ -230,7 +230,7 @@ Object02 -[dotted]- Object03
 @enduml
 ```
 
-![Relation Line Types](../../../../.gitbook/assets/Relations07\_line\_type.png)
+![Relation Line Types](../../../../../.gitbook/assets/Relations07\_line\_type.png)
 
 ### Line Colors
 
@@ -258,7 +258,7 @@ Object02 -[#darkcyan]- Object03
 @enduml
 ```
 
-![Relation Line Colors](../../../../.gitbook/assets/Relations08\_line\_colors.png)
+![Relation Line Colors](../../../../../.gitbook/assets/Relations08\_line\_colors.png)
 
 ### Line Thickness
 
@@ -286,7 +286,7 @@ Object02 -[thickness=8]- Object03
 @enduml
 ```
 
-![Relation Line Thickness](../../../../.gitbook/assets/Relations09\_line\_thickness.png)
+![Relation Line Thickness](../../../../../.gitbook/assets/Relations09\_line\_thickness.png)
 
 ### With All Properties
 
@@ -306,7 +306,7 @@ Object02 -[#009EA1,dashed,thickness=4]- Object03 : <color #561D5E><b>Relation</b
 @enduml
 ```
 
-![Relations With All Properties](../../../../.gitbook/assets/Relations10\_all\_properties.png)
+![Relations With All Properties](../../../../../.gitbook/assets/Relations10\_all\_properties.png)
 
 ## Associations
 
@@ -336,4 +336,4 @@ Association01 --> Object03
 @enduml
 ```
 
-![Association Objects](../../../../.gitbook/assets/Relations11\_associations.png)
+![Association Objects](../../../../../.gitbook/assets/Relations11\_associations.png)

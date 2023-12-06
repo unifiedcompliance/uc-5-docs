@@ -21,7 +21,7 @@ Maria ->  Zarek
 @enduml
 ```
 
-![Message Declaration](../../../../.gitbook/assets/Messages01\_declaration.png)
+![Message Declaration](../../../../../.gitbook/assets/Messages01\_declaration.png)
 
 ## Direction
 
@@ -48,7 +48,7 @@ Maria -> Zarek
 @enduml
 ```
 
-![Message Direction](../../../../.gitbook/assets/Messages02\_direction.png)
+![Message Direction](../../../../../.gitbook/assets/Messages02\_direction.png)
 
 
 
@@ -110,7 +110,7 @@ Sean ->? : Text
 @enduml
 ```
 
-![Sender and Receiver](<../../../../.gitbook/assets/Messages03\_sender\_receiver (1).png>)
+![Sender and Receiver](<../../../../../.gitbook/assets/Messages03\_sender\_receiver (1).png>)
 
 ### Line Type
 
@@ -134,7 +134,7 @@ Sean  <-- Maria : Text
 @enduml
 ```
 
-![Line Type](../../../../.gitbook/assets/Messages04\_line\_type.png)
+![Line Type](../../../../../.gitbook/assets/Messages04\_line\_type.png)
 
 ### Arrow Colors
 
@@ -158,7 +158,7 @@ Zarek -[#FF0000]>o] : Text
 @enduml
 ```
 
-![Arrow Color](../../../../.gitbook/assets/Messages05\_arrow\_color.png)
+![Arrow Color](../../../../../.gitbook/assets/Messages05\_arrow\_color.png)
 
 ### Arrow Heads
 
@@ -203,7 +203,7 @@ Sean  <-->  Zarek : <-->
 @enduml
 ```
 
-![Arrow Heads](<../../../../.gitbook/assets/Messages06\_arrow\_head (1).png>)
+![Arrow Heads](<../../../../../.gitbook/assets/Messages06\_arrow\_head (1).png>)
 
 ### Message Text
 
@@ -235,4 +235,4 @@ Zarek ->  Sean : Multiline \nText
 @enduml
 ```
 
-![Message Text](../../../../.gitbook/assets/Messages07\_message\_text.png)
+![Message Text](../../../../../.gitbook/assets/Messages07\_message\_text.png)

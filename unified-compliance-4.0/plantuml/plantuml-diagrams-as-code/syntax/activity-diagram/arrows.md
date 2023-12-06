@@ -36,7 +36,7 @@ The **line\_color** is defined by a standard color name or hex code. If you use 
 @enduml
 ```
 
-![Arrow Line Color](../../../../.gitbook/assets/Arrows02\_linecolor.png)
+![Arrow Line Color](../../../../../.gitbook/assets/Arrows02\_linecolor.png)
 
 ### Line Type
 
@@ -85,7 +85,7 @@ The **line\_types** are as follows.
 @enduml
 ```
 
-![Arrow Line Type](<../../../../.gitbook/assets/Arrows03\_linetype (2).png>)
+![Arrow Line Type](<../../../../../.gitbook/assets/Arrows03\_linetype (2).png>)
 
 ### Text
 
@@ -129,7 +129,7 @@ Arrow;
 @enduml
 ```
 
-![Arrow Text](../../../../.gitbook/assets/Arrows04\_text.png)
+![Arrow Text](../../../../../.gitbook/assets/Arrows04\_text.png)
 
 ### With All Properties
 
@@ -163,4 +163,4 @@ next to a hidden arrow;
 @enduml
 ```
 
-![Arrows With All Properties](../../../../.gitbook/assets/Arrows05\_allprops.png)
+![Arrows With All Properties](../../../../../.gitbook/assets/Arrows05\_allprops.png)

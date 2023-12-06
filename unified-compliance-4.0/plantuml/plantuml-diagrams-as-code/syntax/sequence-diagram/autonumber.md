@@ -28,7 +28,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Autonumber Activation](<../../../../.gitbook/assets/Autonumber01\_activation (1).png>)
+![Autonumber Activation](<../../../../../.gitbook/assets/Autonumber01\_activation (1).png>)
 
 ## Commands
 
@@ -68,7 +68,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Stop & Resume](../../../../.gitbook/assets/Autonumber02\_stop\_resume.png)
+![Stop & Resume](../../../../../.gitbook/assets/Autonumber02\_stop\_resume.png)
 
 ## Properties
 
@@ -108,7 +108,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Start Number](../../../../.gitbook/assets/Autonumber03\_start\_number.png)
+![Start Number](../../../../../.gitbook/assets/Autonumber03\_start\_number.png)
 
 ### Increment
 
@@ -145,7 +145,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Increment](../../../../.gitbook/assets/Autonumber04\_increment.png)
+![Increment](../../../../../.gitbook/assets/Autonumber04\_increment.png)
 
 #### Increment Option
 
@@ -182,7 +182,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Increment Option](../../../../.gitbook/assets/Autonumber05\_increment\_option.png)
+![Increment Option](../../../../../.gitbook/assets/Autonumber05\_increment\_option.png)
 
 ### Number Format
 
@@ -211,7 +211,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Number Format](../../../../.gitbook/assets/Autonumber06\_number\_format.png)
+![Number Format](../../../../../.gitbook/assets/Autonumber06\_number\_format.png)
 
 ### Message
 
@@ -250,7 +250,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Autonumber Message](../../../../.gitbook/assets/Autonumber07\_message.png)
+![Autonumber Message](../../../../../.gitbook/assets/Autonumber07\_message.png)
 
 ### Text Format
 
@@ -290,7 +290,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Text Format](../../../../.gitbook/assets/Autonumber08\_text\_format.png)
+![Text Format](../../../../../.gitbook/assets/Autonumber08\_text\_format.png)
 
 ## Specific Sequence
 
@@ -333,7 +333,7 @@ Sean  <-- Maria : Text
 @enduml
 ```
 
-![Specific Sequence](../../../../.gitbook/assets/Autonumber09\_specific\_sequence.png)
+![Specific Sequence](../../../../../.gitbook/assets/Autonumber09\_specific\_sequence.png)
 
 ## As a Variable
 
@@ -364,4 +364,4 @@ Maria <-- Zarek : Text
 @enduml
 ```
 
-![Autonumber as a Variable](../../../../.gitbook/assets/Autonumber10\_variable.png)
+![Autonumber as a Variable](../../../../../.gitbook/assets/Autonumber10\_variable.png)

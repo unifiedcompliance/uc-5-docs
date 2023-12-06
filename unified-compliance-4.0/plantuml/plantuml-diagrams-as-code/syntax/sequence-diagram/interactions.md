@@ -35,7 +35,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Interaction Declaration](../../../../.gitbook/assets/Interactions01\_declaration.png)
+![Interaction Declaration](../../../../../.gitbook/assets/Interactions01\_declaration.png)
 
 ## Basic Properties
 
@@ -91,7 +91,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Interaction Operator](../../../../.gitbook/assets/Interactions02\_operator.png)
+![Interaction Operator](../../../../../.gitbook/assets/Interactions02\_operator.png)
 
 ### Operator Color
 
@@ -132,7 +132,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Interaction Operator Color](../../../../.gitbook/assets/Interactions02.1\_operator\_color.png)
+![Interaction Operator Color](../../../../../.gitbook/assets/Interactions02.1\_operator\_color.png)
 
 ### Body Color
 
@@ -173,7 +173,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Interaction Body Color](../../../../.gitbook/assets/Interactions02.2\_body\_color.png)
+![Interaction Body Color](../../../../../.gitbook/assets/Interactions02.2\_body\_color.png)
 
 ### Header
 
@@ -215,7 +215,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Interaction Header](<../../../../.gitbook/assets/Interactions03\_header (1).png>)
+![Interaction Header](<../../../../../.gitbook/assets/Interactions03\_header (1).png>)
 
 ## Customizable Interaction
 
@@ -257,7 +257,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Customizable Interaction](../../../../.gitbook/assets/Interactions04\_custom.png)
+![Customizable Interaction](../../../../../.gitbook/assets/Interactions04\_custom.png)
 
 ## Alt/Else
 
@@ -309,7 +309,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Interaction Alt/Else](<../../../../.gitbook/assets/Interactions05\_alt\_else (2).png>)
+![Interaction Alt/Else](<../../../../../.gitbook/assets/Interactions05\_alt\_else (2).png>)
 
 ## Reference
 
@@ -360,5 +360,5 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Interaction Reference](../../../../.gitbook/assets/Interactions06\_ref.png)
+![Interaction Reference](../../../../../.gitbook/assets/Interactions06\_ref.png)
 

@@ -28,7 +28,7 @@ A4 <|-- E4
 @enduml
 ```
 
-![No Group Inheritance](../../../../.gitbook/assets/Organization01\_1\_group\_inheritance.png)
+![No Group Inheritance](../../../../../.gitbook/assets/Organization01\_1\_group\_inheritance.png)
 
 #### Example: Group Inheritance Threshold 2
 
@@ -57,7 +57,7 @@ A4 <|-- E4
 @enduml
 ```
 
-![Group Inheritance Threshold 2](../../../../.gitbook/assets/Organization01\_2\_group\_inheritance.png)
+![Group Inheritance Threshold 2](../../../../../.gitbook/assets/Organization01\_2\_group\_inheritance.png)
 
 ####
 
@@ -88,7 +88,7 @@ A4 <|-- E4
 @enduml
 ```
 
-![Group Inheritance Threshold 4](../../../../.gitbook/assets/Organization01\_3\_group\_inheritance.png)
+![Group Inheritance Threshold 4](../../../../../.gitbook/assets/Organization01\_3\_group\_inheritance.png)
 
 ## Packages
 
@@ -111,7 +111,7 @@ package Package1 {
 @enduml
 ```
 
-![Package Declaration](../../../../.gitbook/assets/Organization02\_package\_declaration.png)
+![Package Declaration](../../../../../.gitbook/assets/Organization02\_package\_declaration.png)
 
 ### Name
 
@@ -144,7 +144,7 @@ package "<color #561D5E><i>Package 2</i></color>" {
 @enduml
 ```
 
-![Package Name](../../../../.gitbook/assets/Organization03\_package\_name.png)
+![Package Name](../../../../../.gitbook/assets/Organization03\_package\_name.png)
 
 ### Types
 
@@ -185,7 +185,7 @@ package Database <<Database>> {
 @enduml
 ```
 
-![Package Types](../../../../.gitbook/assets/Organization04\_package\_types.png)
+![Package Types](../../../../../.gitbook/assets/Organization04\_package\_types.png)
 
 ### Body Color
 
@@ -212,7 +212,7 @@ package Package2 #009EA1/white {
 @enduml
 ```
 
-![Package Body Color](../../../../.gitbook/assets/Organization05\_package\_fill\_color.png)
+![Package Body Color](../../../../../.gitbook/assets/Organization05\_package\_fill\_color.png)
 
 ### Line Color
 
@@ -241,7 +241,7 @@ package Package2 #line:561D5E/white {
 @enduml
 ```
 
-![Package Line Color](../../../../.gitbook/assets/Organization06\_package\_line\_color.png)
+![Package Line Color](../../../../../.gitbook/assets/Organization06\_package\_line\_color.png)
 
 ### Line Style
 
@@ -278,7 +278,7 @@ package Package3 #line.dotted {
 @enduml
 ```
 
-![Package Line Style](../../../../.gitbook/assets/Organization07\_package\_line\_style.png)
+![Package Line Style](../../../../../.gitbook/assets/Organization07\_package\_line\_style.png)
 
 ### Body
 
@@ -310,7 +310,7 @@ ClassA1 - ClassB1
 @enduml
 ```
 
-![Package Body](../../../../.gitbook/assets/Organization08\_package\_body.png)
+![Package Body](../../../../../.gitbook/assets/Organization08\_package\_body.png)
 
 ### With All Properties
 
@@ -336,7 +336,7 @@ ClassA1 - ClassB1
 @enduml
 ```
 
-![Packages With All Properties](../../../../.gitbook/assets/Organization09\_package\_all\_properties.png)
+![Packages With All Properties](../../../../../.gitbook/assets/Organization09\_package\_all\_properties.png)
 
 ## Namespaces
 
@@ -366,7 +366,7 @@ Home1.Resident - Home2.Resident
 @enduml
 ```
 
-![](../../../../.gitbook/assets/Organization09\_namespace.png)
+![](../../../../../.gitbook/assets/Organization09\_namespace.png)
 
 ### Name
 
@@ -395,7 +395,7 @@ Home1.Resident - __Home2__.Resident
 @enduml
 ```
 
-![Namespace Names](../../../../.gitbook/assets/Organization11\_namespace\_name.png)
+![Namespace Names](../../../../../.gitbook/assets/Organization11\_namespace\_name.png)
 
 ### Body Color
 
@@ -425,7 +425,7 @@ Home1.Resident - Home2.Resident
 @enduml
 ```
 
-![Namespace Body Color](../../../../.gitbook/assets/Organization12\_namespace\_bodycolor.png)
+![Namespace Body Color](../../../../../.gitbook/assets/Organization12\_namespace\_bodycolor.png)
 
 ### Body
 
@@ -458,7 +458,7 @@ Home1.Resident - Home2.Resident
 @enduml
 ```
 
-![Name Space Body](../../../../.gitbook/assets/Organization13\_namespace\_body.png)
+![Name Space Body](../../../../../.gitbook/assets/Organization13\_namespace\_body.png)
 
 ### With All Properties
 
@@ -484,7 +484,7 @@ Home1.Resident - Home2.Resident
 @enduml
 ```
 
-![Namespace With All Properties](../../../../.gitbook/assets/Organization14\_namespace\_all\_properties.png)
+![Namespace With All Properties](../../../../../.gitbook/assets/Organization14\_namespace\_all\_properties.png)
 
 ### Automatic Namespace Creation
 
@@ -525,7 +525,7 @@ class Home3::Resident
 @enduml
 ```
 
-![Automatic Namespace Creation](../../../../.gitbook/assets/Organization15\_namespace\_automation.png)
+![Automatic Namespace Creation](../../../../../.gitbook/assets/Organization15\_namespace\_automation.png)
 
 ## Visibility
 
@@ -566,7 +566,7 @@ Class1 -- Class3
 @enduml
 ```
 
-![Visibility Starting Point](../../../../.gitbook/assets/Organization16\_1\_hide.png)
+![Visibility Starting Point](../../../../../.gitbook/assets/Organization16\_1\_hide.png)
 
 ### Hiding Showing and Removing Classes
 
@@ -610,7 +610,7 @@ remove Class3
 @enduml
 ```
 
-![Hiding Showing and Removing Classes](<../../../../.gitbook/assets/Organization16\_2\_hide (1).png>)
+![Hiding Showing and Removing Classes](<../../../../../.gitbook/assets/Organization16\_2\_hide (1).png>)
 
 ### Hiding and Showing Parts of Classes
 
@@ -658,7 +658,7 @@ show Class1 methods
 @enduml
 ```
 
-![Hiding and Showing Parts of Classes](../../../../.gitbook/assets/Organization16\_3\_hide.png)
+![Hiding and Showing Parts of Classes](../../../../../.gitbook/assets/Organization16\_3\_hide.png)
 
 ### Hiding and Removing Empty and Unlinked Entities
 
@@ -697,7 +697,7 @@ remove @unlinked
 @enduml
 ```
 
-![Empty and Unlinked Entities](../../../../.gitbook/assets/Organization16\_4\_hide.png)
+![Empty and Unlinked Entities](../../../../../.gitbook/assets/Organization16\_4\_hide.png)
 
 ### Positioning Classes With Hidden Relationships
 
@@ -733,7 +733,7 @@ Interface2 -[hidden]- Enum4
 @enduml
 ```
 
-![Class Positioned With Hidden Relationship](../../../../.gitbook/assets/Organization16\_5\_position\_with\_hidden.png)
+![Class Positioned With Hidden Relationship](../../../../../.gitbook/assets/Organization16\_5\_position\_with\_hidden.png)
 
 ## Page Breaks
 
@@ -776,6 +776,6 @@ page 3x2
 @enduml
 ```
 
-![](../../../../.gitbook/assets/Organization17\_page\_break.png) ![](../../../../.gitbook/assets/Organization17\_page\_break\_002.png) ![](../../../../.gitbook/assets/Organization17\_page\_break\_004.png)
+![](../../../../../.gitbook/assets/Organization17\_page\_break.png) ![](../../../../../.gitbook/assets/Organization17\_page\_break\_002.png) ![](../../../../../.gitbook/assets/Organization17\_page\_break\_004.png)
 
-![](../../../../.gitbook/assets/Organization17\_page\_break\_001.png) ![Page Breaks 3x2](../../../../.gitbook/assets/Organization17\_page\_break\_003.png) ![](../../../../.gitbook/assets/Organization17\_page\_break\_005.png)
+![](../../../../../.gitbook/assets/Organization17\_page\_break\_001.png) ![Page Breaks 3x2](../../../../../.gitbook/assets/Organization17\_page\_break\_003.png) ![](../../../../../.gitbook/assets/Organization17\_page\_break\_005.png)

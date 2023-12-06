@@ -18,7 +18,7 @@ object MyObject
 @enduml
 ```
 
-![Object Declaration](../../../../.gitbook/assets/Objects01\_declaration.png)
+![Object Declaration](../../../../../.gitbook/assets/Objects01\_declaration.png)
 
 
 
@@ -62,7 +62,7 @@ object "<color:#561D5E><i>Yet Another Object</i></color>" as PC
 @enduml
 ```
 
-![Object Names and Aliases](../../../../.gitbook/assets/Objects02\_name.png)
+![Object Names and Aliases](../../../../../.gitbook/assets/Objects02\_name.png)
 
 ### Stereotype
 
@@ -81,7 +81,7 @@ object MyObject <<A **Stereotype**>>
 @enduml
 ```
 
-![Object Stereotype](../../../../.gitbook/assets/Objects04\_stereotype.png)
+![Object Stereotype](../../../../../.gitbook/assets/Objects04\_stereotype.png)
 
 ### Fill Color
 
@@ -99,7 +99,7 @@ sa
 @enduml
 ```
 
-![Object Fill Color](../../../../.gitbook/assets/Objects05\_fill\_color.png)
+![Object Fill Color](../../../../../.gitbook/assets/Objects05\_fill\_color.png)
 
 ### Body
 
@@ -120,7 +120,7 @@ object MyObject{
 @enduml
 ```
 
-![Object Body](../../../../.gitbook/assets/Objects06\_body.png)
+![Object Body](../../../../../.gitbook/assets/Objects06\_body.png)
 
 ### With All Properties
 
@@ -137,7 +137,7 @@ object "<color:#E6E6E7><i>My Object</i></color>" as MO <<A **Stereotype**>> #009
 @enduml
 ```
 
-![Object With All Properties](../../../../.gitbook/assets/Objects007\_all\_props.png)
+![Object With All Properties](../../../../../.gitbook/assets/Objects007\_all\_props.png)
 
 ### Fields
 
@@ -174,7 +174,7 @@ MOO : The //Final// Field
 @enduml
 ```
 
-![Adding Fields](<../../../../.gitbook/assets/Objects08\_fields (1).png>)
+![Adding Fields](<../../../../../.gitbook/assets/Objects08\_fields (1).png>)
 
 ## Map Table or Associative Array
 
@@ -193,7 +193,7 @@ map "<color:#E6E6E7><i>My Map Table</i></color>" as MT <<A **Stereotype**>> #009
 @enduml
 ```
 
-![Map Table With All Properties](../../../../.gitbook/assets/MapArray01declaration.png)
+![Map Table With All Properties](../../../../../.gitbook/assets/MapArray01declaration.png)
 
 ### Cells
 
@@ -221,5 +221,5 @@ MT : <color:#561D5E><b>cell_3</b></color> => <color:#009EA1><b>cell_5</b></color
 @enduml
 ```
 
-![Adding Cells](../../../../.gitbook/assets/MapArray02\_cells.png)
+![Adding Cells](../../../../../.gitbook/assets/MapArray02\_cells.png)
 

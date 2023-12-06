@@ -24,7 +24,7 @@ Basic actions are declared by placing text between a colon and semicolon. If mor
 @enduml
 ```
 
-![Action Declaration](../../../../.gitbook/assets/Actions01\_declaration.png)
+![Action Declaration](../../../../../.gitbook/assets/Actions01\_declaration.png)
 
 ## Properties
 
@@ -54,7 +54,7 @@ The **fill\_color** property determines the fill color of the action. The **fill
 @enduml
 ```
 
-![Action Fill Color](../../../../.gitbook/assets/Actions02\_fillcolor.png)
+![Action Fill Color](../../../../../.gitbook/assets/Actions02\_fillcolor.png)
 
 ### Text
 
@@ -83,7 +83,7 @@ Action;
 @enduml
 ```
 
-![Action Text](../../../../.gitbook/assets/Actions03\_text.png)
+![Action Text](../../../../../.gitbook/assets/Actions03\_text.png)
 
 ### Specification
 
@@ -113,7 +113,7 @@ endfork
 @enduml
 ```
 
-![Actions Shape](../../../../.gitbook/assets/Actions04\_shape.png)
+![Actions Shape](../../../../../.gitbook/assets/Actions04\_shape.png)
 
 ### With All Properties
 
@@ -134,7 +134,7 @@ Action;
 @enduml
 ```
 
-![Actions With All Properties](../../../../.gitbook/assets/Actions05\_allprops.png)
+![Actions With All Properties](../../../../../.gitbook/assets/Actions05\_allprops.png)
 
 ## Connector Declaration
 
@@ -158,7 +158,7 @@ Connectors are declared by a single letter inside of a set of parentheses.
 @enduml
 ```
 
-![Connector Declaration](../../../../.gitbook/assets/Actions06\_connectors.png)
+![Connector Declaration](../../../../../.gitbook/assets/Actions06\_connectors.png)
 
 ## Properties
 
@@ -192,7 +192,7 @@ The **fill\_color** property determines the fill color of the connector. The **f
 @enduml
 ```
 
-![Connector Fill Color](../../../../.gitbook/assets/Actions07\_connectorfillcolor.png)
+![Connector Fill Color](../../../../../.gitbook/assets/Actions07\_connectorfillcolor.png)
 
 ### Text
 
@@ -225,7 +225,7 @@ The **text** property provides the text that is displayed in the connector. The 
 @enduml
 ```
 
-![Connector Text](../../../../.gitbook/assets/Actions08\_connectorText.png)
+![Connector Text](../../../../../.gitbook/assets/Actions08\_connectorText.png)
 
 ## Start, Stop, & End
 
@@ -249,7 +249,7 @@ stop
 @enduml
 ```
 
-![Start, Stop](../../../../.gitbook/assets/Actions09\_startstop.png)
+![Start, Stop](../../../../../.gitbook/assets/Actions09\_startstop.png)
 
 #### Example: End
 
@@ -266,4 +266,4 @@ stop
 @enduml
 ```
 
-![End](../../../../.gitbook/assets/Actions10\_end.png)
+![End](../../../../../.gitbook/assets/Actions10\_end.png)

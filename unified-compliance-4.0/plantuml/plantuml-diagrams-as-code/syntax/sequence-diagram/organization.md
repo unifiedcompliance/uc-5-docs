@@ -31,7 +31,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Title With Manual Line Breaks and Creole](../../../../.gitbook/assets/Organization01\_title\_manual\_lines.png)
+![Title With Manual Line Breaks and Creole](../../../../../.gitbook/assets/Organization01\_title\_manual\_lines.png)
 
 #### Example: Title With Automatic Line Breaks and Markup
 
@@ -57,7 +57,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Title With Automatic Line Breaks and Markup](../../../../.gitbook/assets/Organization02\_title\_auto\_lines.png)
+![Title With Automatic Line Breaks and Markup](../../../../../.gitbook/assets/Organization02\_title\_auto\_lines.png)
 
 #### Example: Title Image
 
@@ -86,7 +86,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Title With Images](../../../../.gitbook/assets/Organization03\_title\_images.png)
+![Title With Images](../../../../../.gitbook/assets/Organization03\_title\_images.png)
 
 ## Header & Footer with Page Numbers
 
@@ -121,9 +121,9 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Header and Footer with Page Numbers](../../../../.gitbook/assets/Organization04\_header.png)
+![Header and Footer with Page Numbers](../../../../../.gitbook/assets/Organization04\_header.png)
 
-![Header and Footer with Page Numbers](../../../../.gitbook/assets/Organization04\_header\_001.png)
+![Header and Footer with Page Numbers](../../../../../.gitbook/assets/Organization04\_header\_001.png)
 
 ## Page Break
 
@@ -159,9 +159,9 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Page Break 1 of 2](../../../../.gitbook/assets/Organization05\_page\_break.png)
+![Page Break 1 of 2](../../../../../.gitbook/assets/Organization05\_page\_break.png)
 
-![Page Break 2 of 2](../../../../.gitbook/assets/Organization05\_page\_break\_001.png)
+![Page Break 2 of 2](../../../../../.gitbook/assets/Organization05\_page\_break\_001.png)
 
 ## Dividers
 
@@ -195,7 +195,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Dividers](../../../../.gitbook/assets/Organization06\_Divider.png)
+![Dividers](../../../../../.gitbook/assets/Organization06\_Divider.png)
 
 ## Vertical Spacing
 
@@ -228,7 +228,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Vertical Spacing](../../../../.gitbook/assets/Organization07\_spacing.png)
+![Vertical Spacing](../../../../../.gitbook/assets/Organization07\_spacing.png)
 
 ## Delays
 
@@ -267,7 +267,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Delays](../../../../.gitbook/assets/Organization08\_delays.png)
+![Delays](../../../../../.gitbook/assets/Organization08\_delays.png)
 
 
 
@@ -301,7 +301,7 @@ To create a multiline **durationConstraint** use manual **\n** line breaks. The 
 @enduml
 ```
 
-![DurationConstraint](../../../../.gitbook/assets/Organization09\_duration\_constraint.png)
+![DurationConstraint](../../../../../.gitbook/assets/Organization09\_duration\_constraint.png)
 
 ## Boxes
 
@@ -334,7 +334,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Defining Boxes](../../../../.gitbook/assets/Organization10\_box\_declaration.png)
+![Defining Boxes](../../../../../.gitbook/assets/Organization10\_box\_declaration.png)
 
 ### Box Title
 
@@ -370,7 +370,7 @@ Zarek <-- Ivy : Text
 @enduml
 ```
 
-![Box Title](../../../../.gitbook/assets/Organization11\_box\_text.png)
+![Box Title](../../../../../.gitbook/assets/Organization11\_box\_text.png)
 
 ### Box Color
 
@@ -406,7 +406,7 @@ Zarek <-- Ivy : Text
 @enduml
 ```
 
-![Box Color](../../../../.gitbook/assets/Organization12\_box\_color.png)
+![Box Color](../../../../../.gitbook/assets/Organization12\_box\_color.png)
 
 ## Mainframe
 
@@ -433,5 +433,5 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Mainframe](../../../../.gitbook/assets/Organization13\_mainframe.png)
+![Mainframe](../../../../../.gitbook/assets/Organization13\_mainframe.png)
 

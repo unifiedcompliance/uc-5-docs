@@ -25,7 +25,7 @@ note right of Zarek: Note Text
 @enduml
 ```
 
-![Note Declaration](<../../../../.gitbook/assets/Notes01\_declaration (1).png>)
+![Note Declaration](<../../../../../.gitbook/assets/Notes01\_declaration (1).png>)
 
 ## Properties
 
@@ -67,7 +67,7 @@ note bottom of Zarek: Bottom
 @enduml
 ```
 
-![Note Position](../../../../.gitbook/assets/Notes02\_position.png)
+![Note Position](../../../../../.gitbook/assets/Notes02\_position.png)
 
 ### Color
 
@@ -93,7 +93,7 @@ note right of Zarek #561D5E/FF0000 : Note
 @enduml
 ```
 
-![Note Color](../../../../.gitbook/assets/Notes03\_color.png)
+![Note Color](../../../../../.gitbook/assets/Notes03\_color.png)
 
 ### Text
 
@@ -126,7 +126,7 @@ end note
 @enduml
 ```
 
-![Note Text](../../../../.gitbook/assets/Notes04\_text.png)
+![Note Text](../../../../../.gitbook/assets/Notes04\_text.png)
 
 ## Attached Notes
 
@@ -187,7 +187,7 @@ Sean .. noteAlias_2
 @enduml
 ```
 
-![Attached Note With Alias and Text](<../../../../.gitbook/assets/Notes05\_attached\_text (1).png>)
+![Attached Note With Alias and Text](<../../../../../.gitbook/assets/Notes05\_attached\_text (1).png>)
 
 ### Color
 
@@ -229,4 +229,4 @@ Sean .. noteAlias_2
 @enduml
 ```
 
-![Attached Note With Color](../../../../.gitbook/assets/Notes07\_attached\_color.png)
+![Attached Note With Color](../../../../../.gitbook/assets/Notes07\_attached\_color.png)

@@ -21,7 +21,7 @@ actor Zarek
 @enduml
 ```
 
-![Actor Declaration](../../../../.gitbook/assets/UseCase01\_actor\_declaration.png)
+![Actor Declaration](../../../../../.gitbook/assets/UseCase01\_actor\_declaration.png)
 
 ## Properties
 
@@ -59,7 +59,7 @@ actor :Zarek\nStocker:
 @enduml
 ```
 
-![Actor Name](../../../../.gitbook/assets/UseCase02\_actor\_name.png)
+![Actor Name](../../../../../.gitbook/assets/UseCase02\_actor\_name.png)
 
 ### Business
 
@@ -80,7 +80,7 @@ actor/ Zarek
 @enduml
 ```
 
-![Business Actor](../../../../.gitbook/assets/UseCase03\_actor\_business.png)
+![Business Actor](../../../../../.gitbook/assets/UseCase03\_actor\_business.png)
 
 ### Alias
 
@@ -115,7 +115,7 @@ Ivy -- (Clock In)
 @enduml
 ```
 
-![Actor Alias](../../../../.gitbook/assets/UseCase04\_actor\_alias.png)
+![Actor Alias](../../../../../.gitbook/assets/UseCase04\_actor\_alias.png)
 
 ### Stereotype
 
@@ -136,7 +136,7 @@ actor Ivy <<Cashier>>
 @enduml
 ```
 
-![Actor Stereotype](../../../../.gitbook/assets/UseCase05\_actor\_alias.png)
+![Actor Stereotype](../../../../../.gitbook/assets/UseCase05\_actor\_alias.png)
 
 ### Fill Color
 
@@ -157,7 +157,7 @@ actor Ivy #00FF00
 @enduml
 ```
 
-![Actor Fill Color](../../../../.gitbook/assets/UseCase06\_actor\_fill\_color.png)
+![Actor Fill Color](../../../../../.gitbook/assets/UseCase06\_actor\_fill\_color.png)
 
 ### Line Color
 
@@ -178,7 +178,7 @@ actor Ivy #line:00FF00
 @enduml
 ```
 
-![Actor Line Color](../../../../.gitbook/assets/UseCase06\_actor\_line\_color.png)
+![Actor Line Color](../../../../../.gitbook/assets/UseCase06\_actor\_line\_color.png)
 
 ### Line Type
 
@@ -208,7 +208,7 @@ actor Ivy #line.dashed
 @enduml
 ```
 
-![Actor Line Type](../../../../.gitbook/assets/UseCase07\_actor\_line\_type.png)
+![Actor Line Type](../../../../../.gitbook/assets/UseCase07\_actor\_line\_type.png)
 
 ### Text Color
 
@@ -234,7 +234,7 @@ actor Zarek <<Stocker>> #text:red
 @enduml
 ```
 
-![Actor Text Color](../../../../.gitbook/assets/UseCase08\_actor\_text\_color.png)
+![Actor Text Color](../../../../../.gitbook/assets/UseCase08\_actor\_text\_color.png)
 
 ### With All Properties
 
@@ -255,4 +255,4 @@ actor/ :<font color=FFFFFF>Ivy</font>: as I <<Cashier>> #561D5E;line:blue;line.d
 @enduml
 ```
 
-![Actor With All Properties](../../../../.gitbook/assets/Actor10\_all\_properties.png)
+![Actor With All Properties](../../../../../.gitbook/assets/Actor10\_all\_properties.png)

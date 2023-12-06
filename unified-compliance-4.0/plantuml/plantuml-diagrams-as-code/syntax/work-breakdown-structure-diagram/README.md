@@ -23,13 +23,13 @@ There are two primary approaches to work breakdown structures.&#x20;
 
 The deliverable-based work breakdown structure divides the scope into major areas and assigns tasks accordingly.
 
-![Deliverable-based WBS](<../../../../.gitbook/assets/PB\&J\_Deliverable (1).png>)
+![Deliverable-based WBS](<../../../../../.gitbook/assets/PB\&J\_Deliverable (1).png>)
 
 ### Phase-based Approach
 
 The phase-based work breakdown structure divides a project into phases and focuses on order of completion.
 
-![Phase-based WBS](../../../../.gitbook/assets/PB\&J\_Phase.png)
+![Phase-based WBS](../../../../../.gitbook/assets/PB\&J\_Phase.png)
 
 Both approaches have clear objectives and deliverables at the end of their branches.
 

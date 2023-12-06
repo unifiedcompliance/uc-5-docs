@@ -26,7 +26,7 @@ Car - Wheel
 @enduml
 ```
 
-![Declaring Relationships](../../../../.gitbook/assets/Relationships01\_Declaration.png)
+![Declaring Relationships](../../../../../.gitbook/assets/Relationships01\_Declaration.png)
 
 ## Parts of Relationships
 
@@ -69,7 +69,7 @@ Car::axle - Wheel
 @enduml
 ```
 
-![Relationship Entities](../../../../.gitbook/assets/Relationships02\_entities.png)
+![Relationship Entities](../../../../../.gitbook/assets/Relationships02\_entities.png)
 
 ## Labels
 
@@ -111,7 +111,7 @@ Car::axle - Wheel : <color #561D5E><b>has</b></color>
 @enduml
 ```
 
-![Label Text](../../../../.gitbook/assets/Relationships03\_label\_text.png)
+![Label Text](../../../../../.gitbook/assets/Relationships03\_label\_text.png)
 
 ### Read Direction
 
@@ -146,7 +146,7 @@ Car::axle - Wheel : > has
 @enduml
 ```
 
-![Read Direction](../../../../.gitbook/assets/Relationships03\_label.png)
+![Read Direction](../../../../../.gitbook/assets/Relationships03\_label.png)
 
 ## Connections
 
@@ -181,7 +181,7 @@ Car "1" - "<color #561D5E><b>4..6</b></color>" Wheel : > has
 @enduml
 ```
 
-![Multiplicity](../../../../.gitbook/assets/Relationships05\_multiplicity.png)
+![Multiplicity](../../../../../.gitbook/assets/Relationships05\_multiplicity.png)
 
 ### Arrowheads
 
@@ -209,9 +209,9 @@ Class19 x--x   Class20
 @enduml
 ```
 
-![Arrowheads](<../../../../.gitbook/assets/Relationships06\_arrowhead (1).png>)
+![Arrowheads](<../../../../../.gitbook/assets/Relationships06\_arrowhead (1).png>)
 
-![Arrowheads](../../../../.gitbook/assets/Relationships06\_1\_arrowhead.png)
+![Arrowheads](../../../../../.gitbook/assets/Relationships06\_1\_arrowhead.png)
 
 ### Line Orientation
 
@@ -244,7 +244,7 @@ Up -- Center
 @enduml
 ```
 
-![Line Orientation Default](<../../../../.gitbook/assets/Relationships07\_1\_line\_orientation (1).png>)
+![Line Orientation Default](<../../../../../.gitbook/assets/Relationships07\_1\_line\_orientation (1).png>)
 
 #### Relative Directions
 
@@ -273,7 +273,7 @@ Center -up- Up
 @enduml
 ```
 
-![Line Orientation Relative Directions](../../../../.gitbook/assets/Relationships07\_2\_line\_orientation.png)
+![Line Orientation Relative Directions](../../../../../.gitbook/assets/Relationships07\_2\_line\_orientation.png)
 
 ### Line Type
 
@@ -303,7 +303,7 @@ Car -[dotted]- Driver
 @enduml
 ```
 
-![Line Types](../../../../.gitbook/assets/Relationships08\_line\_type.png)
+![Line Types](../../../../../.gitbook/assets/Relationships08\_line\_type.png)
 
 ### Line Colors
 
@@ -333,7 +333,7 @@ Car -[#cyan]- Driver
 @enduml
 ```
 
-![Line Colors](<../../../../.gitbook/assets/Relationships09\_line\_color (1).png>)
+![Line Colors](<../../../../../.gitbook/assets/Relationships09\_line\_color (1).png>)
 
 ### Line Thickness
 
@@ -363,7 +363,7 @@ Car -[thickness=8]- Driver
 @enduml
 ```
 
-![Line Thickness](../../../../.gitbook/assets/Relationships10\_line\_thickness.png)
+![Line Thickness](../../../../../.gitbook/assets/Relationships10\_line\_thickness.png)
 
 ### With All Properties
 
@@ -384,7 +384,7 @@ Car -right[#561D5E,dashed,thickness=4]- "1..*" Fuel : needs >
 @enduml
 ```
 
-![Relationships With All Properties](../../../../.gitbook/assets/Relationships99\_everything.png)
+![Relationships With All Properties](../../../../../.gitbook/assets/Relationships99\_everything.png)
 
 ## Written Relationships
 
@@ -409,7 +409,7 @@ class Class2 implements Interface1
 @enduml
 ```
 
-![Written Relationships](../../../../.gitbook/assets/WrittenRelationships99\_everything.png)
+![Written Relationships](../../../../../.gitbook/assets/WrittenRelationships99\_everything.png)
 
 
 

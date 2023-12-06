@@ -25,7 +25,7 @@ title **Title** \n__Text__
 @enduml
 ```
 
-![Title With Manual Line Breaks and Creole](../../../../.gitbook/assets/Organization04.1\_title.png)
+![Title With Manual Line Breaks and Creole](../../../../../.gitbook/assets/Organization04.1\_title.png)
 
 #### Example: Title With Automatic Line Breaks and Markup
 
@@ -47,7 +47,7 @@ end title
 @enduml
 ```
 
-![Title With Automatic Line Breaks and Markup](../../../../.gitbook/assets/Organization04.2\_title.png)
+![Title With Automatic Line Breaks and Markup](../../../../../.gitbook/assets/Organization04.2\_title.png)
 
 #### Example: Title With Images
 
@@ -72,7 +72,7 @@ end title
 @enduml
 ```
 
-![Title With Images](../../../../.gitbook/assets/Organization04.3\_title.png)
+![Title With Images](../../../../../.gitbook/assets/Organization04.3\_title.png)
 
 ## Packages
 
@@ -101,7 +101,7 @@ package Store <<Business>>{
 @enduml
 ```
 
-![Standard Package](../../../../.gitbook/assets/Organization01\_package.png)
+![Standard Package](../../../../../.gitbook/assets/Organization01\_package.png)
 
 #### Example: Rectangle
 
@@ -119,7 +119,7 @@ rectangle Store <<Business>>{
 @enduml
 ```
 
-![Rectangle Package](../../../../.gitbook/assets/Organization02\_rectangle.png)
+![Rectangle Package](../../../../../.gitbook/assets/Organization02\_rectangle.png)
 
 ## Page Break
 
@@ -145,6 +145,6 @@ newpage
 @enduml
 ```
 
-![Page Break 1 of 2](../../../../.gitbook/assets/Organization03\_page\_break.png)
+![Page Break 1 of 2](../../../../../.gitbook/assets/Organization03\_page\_break.png)
 
-![Page Break 2 of 2](../../../../.gitbook/assets/Organization03\_page\_break\_001.png)
+![Page Break 2 of 2](../../../../../.gitbook/assets/Organization03\_page\_break\_001.png)

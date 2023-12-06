@@ -74,7 +74,7 @@ Sean  <-- Maria
 @enduml
 ```
 
-![Sequence Diagram](<../../../.gitbook/assets/GettingStarted03\_mixing\_syntax (1).png>)
+![Sequence Diagram](<../../../../.gitbook/assets/GettingStarted03\_mixing\_syntax (1).png>)
 
 #### Example: Functional Use Case Diagram
 
@@ -92,7 +92,7 @@ Sean -> Door
 @enduml
 ```
 
-![Use Case Diagram](<../../../.gitbook/assets/GettingStarted03\_mixing\_syntax (2).png>)
+![Use Case Diagram](<../../../../.gitbook/assets/GettingStarted03\_mixing\_syntax (2).png>)
 
 #### Example: Broken Diagram
 
@@ -119,4 +119,4 @@ Sean -> Door
 @enduml
 ```
 
-![Broken Diagram](../../../.gitbook/assets/GettingStarted03\_mixing\_syntax.png)
+![Broken Diagram](../../../../.gitbook/assets/GettingStarted03\_mixing\_syntax.png)

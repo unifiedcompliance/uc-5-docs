@@ -30,7 +30,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Note Declaration](<../../../../.gitbook/assets/Notes01\_declaration (1) (1).png>)
+![Note Declaration](<../../../../../.gitbook/assets/Notes01\_declaration (1) (1).png>)
 
 ## Properties
 
@@ -79,7 +79,7 @@ Zarek <-- Sean : Text
 @enduml
 ```
 
-![Note Shape](../../../../.gitbook/assets/Notes02\_shape.png)
+![Note Shape](../../../../../.gitbook/assets/Notes02\_shape.png)
 
 ### Position
 
@@ -134,7 +134,7 @@ note left : Note Text
 @enduml
 ```
 
-![Note Position](../../../../.gitbook/assets/Notes03\_position.png)
+![Note Position](../../../../../.gitbook/assets/Notes03\_position.png)
 
 ### Color
 
@@ -167,7 +167,7 @@ Zarek <-- Sean : Message Text
 @enduml
 ```
 
-![Note Color](../../../../.gitbook/assets/Notes04\_color.png)
+![Note Color](../../../../../.gitbook/assets/Notes04\_color.png)
 
 ### Text
 
@@ -214,7 +214,7 @@ end note
 @enduml
 ```
 
-![Note Text](<../../../../.gitbook/assets/Notes05\_text (1).png>)
+![Note Text](<../../../../../.gitbook/assets/Notes05\_text (1).png>)
 
 ## Images In Notes
 
@@ -254,7 +254,7 @@ Zarek <-- Sean : Message Text
 @enduml
 ```
 
-![Note Images](../../../../.gitbook/assets/Notes06\_images.png)
+![Note Images](../../../../../.gitbook/assets/Notes06\_images.png)
 
 ## Note Alignment
 
@@ -292,4 +292,4 @@ Zarek <-- Sean : Message Text
 @enduml
 ```
 
-![Note Alignment](../../../../.gitbook/assets/Notes07\_aligned.png)
+![Note Alignment](../../../../../.gitbook/assets/Notes07\_aligned.png)

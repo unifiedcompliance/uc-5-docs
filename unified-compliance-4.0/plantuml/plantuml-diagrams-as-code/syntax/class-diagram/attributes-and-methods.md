@@ -26,7 +26,7 @@ class Class{
 @enduml
 ```
 
-![Declaring Attributes and Methods](../../../../.gitbook/assets/A\&M01\_declaration.png)
+![Declaring Attributes and Methods](../../../../../.gitbook/assets/A\&M01\_declaration.png)
 
 ## Shorthand
 
@@ -57,7 +57,7 @@ class Class{
 @enduml
 ```
 
-![Shorthand Attributes and Methods](../../../../.gitbook/assets/A\&M02\_shorthand.png)
+![Shorthand Attributes and Methods](../../../../../.gitbook/assets/A\&M02\_shorthand.png)
 
 ## Properties
 
@@ -97,7 +97,7 @@ class Class{
 @enduml
 ```
 
-![Attributes and Methods Asset States](../../../../.gitbook/assets/A\&M03\_5\_asset\_state.png)
+![Attributes and Methods Asset States](../../../../../.gitbook/assets/A\&M03\_5\_asset\_state.png)
 
 ### Visibility
 
@@ -140,7 +140,7 @@ class "Class Name"{
 @enduml
 ```
 
-![Attribute and Method Visibility](../../../../.gitbook/assets/A\&M03\_visibility.png)
+![Attribute and Method Visibility](../../../../../.gitbook/assets/A\&M03\_visibility.png)
 
 ### Text
 
@@ -176,7 +176,7 @@ class "Class Name"{
 @enduml
 ```
 
-![Attribute and Method Text](../../../../.gitbook/assets/A\&M04\_text.png)
+![Attribute and Method Text](../../../../../.gitbook/assets/A\&M04\_text.png)
 
 ### With All Properties
 
@@ -201,4 +201,4 @@ class Class{
 @enduml
 ```
 
-![Attributes and Methods With All Properties](<../../../../.gitbook/assets/A\&M99\_everything (1).png>)
+![Attributes and Methods With All Properties](<../../../../../.gitbook/assets/A\&M99\_everything (1).png>)

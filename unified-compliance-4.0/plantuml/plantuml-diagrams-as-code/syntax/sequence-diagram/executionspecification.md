@@ -47,7 +47,7 @@ deactivate Sean
 @enduml
 ```
 
-![Activate & Deactivate](../../../../.gitbook/assets/ExecutionSpecification01\_activate\_deactivate.png)
+![Activate & Deactivate](../../../../../.gitbook/assets/ExecutionSpecification01\_activate\_deactivate.png)
 
 ### Destroy
 
@@ -90,7 +90,7 @@ deactivate Sean
 @enduml
 ```
 
-![Destroy](<../../../../.gitbook/assets/ExecutionSpecification02\_destroy (1).png>)
+![Destroy](<../../../../../.gitbook/assets/ExecutionSpecification02\_destroy (1).png>)
 
 ### Autoactivate & Return
 
@@ -127,7 +127,7 @@ return Sean replies to the gate
 @enduml
 ```
 
-![Autoactivate & Return](../../../../.gitbook/assets/ExecutionSpecification03\_autoactivate\_return.png)
+![Autoactivate & Return](../../../../../.gitbook/assets/ExecutionSpecification03\_autoactivate\_return.png)
 
 ### Shortcuts
 
@@ -163,7 +163,7 @@ Sean --> Zarek !! : Text
 @enduml
 ```
 
-![Shortcuts](../../../../.gitbook/assets/ExecutionSpecification04\_shortcuts.png)
+![Shortcuts](../../../../../.gitbook/assets/ExecutionSpecification04\_shortcuts.png)
 
 ## Color
 
@@ -200,7 +200,7 @@ return Text
 @enduml
 ```
 
-![ExecutionSpecification Color](../../../../.gitbook/assets/ExecutionSpecification05\_color.png)
+![ExecutionSpecification Color](../../../../../.gitbook/assets/ExecutionSpecification05\_color.png)
 
 ## Nesting
 
@@ -240,6 +240,6 @@ deactivate Sean
 @enduml
 ```
 
-![ExecutionSpecification Nesting](../../../../.gitbook/assets/ExecutionSpecification06\_nesting.png)
+![ExecutionSpecification Nesting](../../../../../.gitbook/assets/ExecutionSpecification06\_nesting.png)
 
 ## Object Deletion Message

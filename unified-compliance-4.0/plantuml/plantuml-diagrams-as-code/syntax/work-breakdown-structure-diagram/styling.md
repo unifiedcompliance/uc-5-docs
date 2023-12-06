@@ -33,7 +33,7 @@ We will start with a basic diagram with a depth of two.
 @endwbs
 ```
 
-![Starting Diagram](../../../../.gitbook/assets/Style01\_start.png)
+![Starting Diagram](../../../../../.gitbook/assets/Style01\_start.png)
 
 ## Basic Styling Syntax
 
@@ -72,7 +72,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Basic Styling Syntax](../../../../.gitbook/assets/Style02\_basic\_syntax.png)
+![Basic Styling Syntax](../../../../../.gitbook/assets/Style02\_basic\_syntax.png)
 
 ## Targets
 
@@ -122,7 +122,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Targeting Nodes](../../../../.gitbook/assets/Style03\_node.png)
+![Targeting Nodes](../../../../../.gitbook/assets/Style03\_node.png)
 
 ### Arrow
 
@@ -160,7 +160,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Targeting Arrows](../../../../.gitbook/assets/Style04\_arrow.png)
+![Targeting Arrows](../../../../../.gitbook/assets/Style04\_arrow.png)
 
 ### Depth
 
@@ -208,7 +208,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Targeting Depth](../../../../.gitbook/assets/Style05\_depth.png)
+![Targeting Depth](../../../../../.gitbook/assets/Style05\_depth.png)
 
 ### Root Node
 
@@ -246,7 +246,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Targeting Root Node](../../../../.gitbook/assets/Style06\_rootNode.png)
+![Targeting Root Node](../../../../../.gitbook/assets/Style06\_rootNode.png)
 
 ### Leaf Nodes
 
@@ -284,7 +284,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Targeting Leaf Nodes](../../../../.gitbook/assets/Style07\_leafNode.png)
+![Targeting Leaf Nodes](../../../../../.gitbook/assets/Style07\_leafNode.png)
 
 ### Boxless
 
@@ -322,7 +322,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Targeting Boxless Nodes](../../../../.gitbook/assets/Style08\_boxless.png)
+![Targeting Boxless Nodes](../../../../../.gitbook/assets/Style08\_boxless.png)
 
 ### Style Label
 
@@ -364,7 +364,7 @@ Style\_labels can be used to target specific nodes for styling.
 @endwbs
 ```
 
-![Targeting Style Labels](../../../../.gitbook/assets/Style09\_style\_label.png)
+![Targeting Style Labels](../../../../../.gitbook/assets/Style09\_style\_label.png)
 
 ## Properties
 
@@ -427,7 +427,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Style BackGroundColor](../../../../.gitbook/assets/Style10\_BackGroundColor.png)
+![Style BackGroundColor](../../../../../.gitbook/assets/Style10\_BackGroundColor.png)
 
 ### RoundCorner
 
@@ -473,7 +473,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Style RoundCorner](../../../../.gitbook/assets/Style11\_RoundCorner.png)
+![Style RoundCorner](../../../../../.gitbook/assets/Style11\_RoundCorner.png)
 
 ### LineColor
 
@@ -517,7 +517,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Style LineColor](../../../../.gitbook/assets/Style12\_LineColor.png)
+![Style LineColor](../../../../../.gitbook/assets/Style12\_LineColor.png)
 
 ### LineStyle
 
@@ -561,7 +561,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Style LineStyle](../../../../.gitbook/assets/Style13\_LineStyle.png)
+![Style LineStyle](../../../../../.gitbook/assets/Style13\_LineStyle.png)
 
 ### LineThickness
 
@@ -605,7 +605,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Style LineThickness](../../../../.gitbook/assets/Style14\_LineThickness.png)
+![Style LineThickness](../../../../../.gitbook/assets/Style14\_LineThickness.png)
 
 ### FontColor
 
@@ -647,7 +647,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Style FontColor](../../../../.gitbook/assets/Style15\_FontColor.png)
+![Style FontColor](../../../../../.gitbook/assets/Style15\_FontColor.png)
 
 ### Padding
 
@@ -691,7 +691,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Style Padding](../../../../.gitbook/assets/Style16\_Padding.png)
+![Style Padding](../../../../../.gitbook/assets/Style16\_Padding.png)
 
 ### Margin
 
@@ -727,7 +727,7 @@ Margin adjusts the space between nodes. Margin must exist inside of a node targe
 @endwbs
 ```
 
-![Style Margin](../../../../.gitbook/assets/Style17\_Margin.png)
+![Style Margin](../../../../../.gitbook/assets/Style17\_Margin.png)
 
 ### HorizontalAlignment
 
@@ -770,7 +770,7 @@ Depth 0;
 @endwbs
 ```
 
-![Style HorizontalAlignment](<../../../../.gitbook/assets/Style18\_Margin copy.png>)
+![Style HorizontalAlignment](<../../../../../.gitbook/assets/Style18\_Margin copy.png>)
 
 ### MaximumWidth
 
@@ -814,7 +814,7 @@ wbsDiagram{
 @endwbs
 ```
 
-![Style MaximumWidth](../../../../.gitbook/assets/Style19\_MaxWidth.png)
+![Style MaximumWidth](../../../../../.gitbook/assets/Style19\_MaxWidth.png)
 
 ### Shadowing
 
@@ -858,4 +858,4 @@ wbsDiagram{
 @endwbs
 ```
 
-![Style Shadowing](../../../../.gitbook/assets/Style20\_Shadowing.png)
+![Style Shadowing](../../../../../.gitbook/assets/Style20\_Shadowing.png)
