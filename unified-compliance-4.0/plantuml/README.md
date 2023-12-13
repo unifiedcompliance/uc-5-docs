@@ -19,8 +19,6 @@ On the far right of each row in the listing page is the _Action_ menu.  Here you
 * Edit - change the definition of the diagram
 * Duplicate - make a copy of the diagram
 * Export - download a PNG, SVG or Text version of the diagram
-* Change Log - view all modifications made to the diagram (excluding Status) over time
-* Approval History - view how the Status of the diagram has changed over time
 * Delete - remove the diagram
 
 Each diagram has a dropdown status column (only available to Owners, Administrators and Editors) where you can set the status to Draft or Final.
