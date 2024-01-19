@@ -8,4 +8,4 @@ Now that you have registered and completed the on-boarding process, as the Owner
 * Plans - Review your Subscription and make modifications
 * Billing - Review Billing Information and make modifications
 
-These functions are accessible from the top right navigation menu (select the avatar with your initials in it).  The following pages describe each of these in more detail.
+These functions are accessible from the top right navigation menu (select the avatar with your initials / picture in it).  The following pages describe each of these in more detail.

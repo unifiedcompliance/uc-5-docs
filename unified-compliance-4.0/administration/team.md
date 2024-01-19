@@ -6,7 +6,7 @@ description: Use the Team page to manage the members of your workspace.
 
 **Invite Users**
 
-Follow these steps to invite more team members to your account:
+Follow these steps to invite more team members to your workspace:
 
 Step 1:  Choose _Team_
 
@@ -26,19 +26,18 @@ Now select the _Invite_ button. An email will be generated and sent to the email
 
 Step 5:  User Accepts Invitation
 
-After selecting the link in the invitation email, the user will be navigated to the registration / sign-in form.  If they are a new user to the system, they will select Sign Up, otherwise if they are already a user (perhaps as a member of another workspace) then they can just sign in with their existing credentials.  They will then be prompted to accept the invitation.
+After selecting the link in the invitation email, the user will be navigated to the registration / sign-in form.  If they are a new user to the system, they will select Sign Up, otherwise if they are already a user (perhaps as a member of another workspace) then they can just sign in with their existing credentials.
 
-Step 6:  Email Address Verification
+Step 6:  Email Address Verification (new users only)
 
-After registration and acceptance of the invitation, an email will be generated and sent to the email address specified whereby the user can verify their email address. Once the user selects the link within the email, they will be navigated back to the application where they can then log in using the credentials specified in Step 5.
-
-**Manage Team Members**
-
-You can utilize the Team page to manage team members. &#x20;
+After registration and acceptance of the invitation, an email will be generated and sent to the email address specified whereby the user can verify their email address. Once the user selects the link within the email, they can navigate back to the application where they can then log in using the credentials specified in Step 5.
 
 **Team Members tab**
 
-The Team Members tab contains all users that are in your workspace.  To remove a user from the workspace, select the "..." menu on the right and then select _Remove User_.
+You can utilize the Team Members tab (Owners/Administrators/Editors only) to manage team members of your workspace, ie:
+
+* Modify a users role (using the dropdown net to each member)
+* Remove a user from the workspace (select the "..." menu on the right and then select _Remove User_).
 
 **Pending tab**
 
@@ -55,3 +54,7 @@ Owners and Administrators can also change the role of an existing user.  However
 The following grid displays the features/functions in the system and which roles have access to them:
 
 <img src="../../.gitbook/assets/image.png" alt="" data-size="original">
+
+**Requested tab**
+
+The Requested tab contains all users that have signed up with an email address domain that matches your workspace, without an invitation.  On the Workspace Settings -> Joining page, you can configure if you want these users to automatically join your workspace upon sign-up, or, require the Owner to approve them.  If the latter is configured, to approve a user, select the "..." menu on the right and then select _Approve_.  To deny & remove the requested user, select the "..." menu on the right and then select Deny.

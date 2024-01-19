@@ -1,30 +1,24 @@
 # PlantUML
 
-The PlantUML module allows you to create, maintain and publish PlantUML diagrams.  All diagrams you create will be saved in your workspace and will be visible by all members of your team (and optionally you can publish them to the Community). &#x20;
+The PlantUML module allows you to create, maintain and share PlantUML diagrams.  All diagrams you create will be saved in your workspace and will be visible by all members of your team once you share them.
 
-From the main navigation menu, select _PlantUML_ then select _Library_. &#x20;
+From the left hand navigation menu, select _PlantUML._ &#x20;
 
 **My Diagrams**
 
-This tab contains all diagrams belonging to your workspace.  To create a PlantUML diagram, select the _Create Diagram_ button.  A default diagram will appear where you can replace that with your own UML.  Then select _Save_ and then specify a Name, Type and Description (optional) and select _Continue_.  Your diagram is then saved - choose Cancel to exit this screen and return to the list of diagrams.  Or, select the _PlantUML_ breadcrumb at the top of the page.
+This tab contains all diagrams belonging to you (shared or not shared).  To create a PlantUML diagram, select the _Create Diagram_ button.  A default diagram will appear where you can replace that with your own UML.  Auto-Save will automatically save your diagram when you stop typing.  Use the back arrow link (<---) to return  to the listing page.
 
-From the listing page, you can search for diagrams using the main search bar and you can filter diagrams displayed by Visibility (Private or Community or All), Creator (who on your team created the diagram), and/or by Status.  You can also sort the results by any of the columns displayed.  Simply click on the column name to sort in ascending order or click it again to sort in descending order.
+From the listing page, you can search for diagrams using the main search bar and you can filter diagrams displayed by Type.  Simply click on a diagram to enter _Edit Mode_ where you can modify the UMML / definition of the diagram.
 
-Single click on a row in the listing page to enter _Edit Mode_ for the diagram where you can modify the definition of the diagram.
+In the top right of each diagram on the listing page is the _Action_ menu.  Here you can perform a number of actions on a diagram (only Owners, Administrators and Editors can make modifications), namely:
 
-On the far right of each row in the listing page is the _Action_ menu.  Here you can perform a number of actions on a diagram, namely:
-
-* Publish - make the diagram visible to the Community (requires enablement under Workspace Settings)
 * Rename - modify the Name, Type and/or Description of the diagram
-* Edit - change the definition of the diagram
+* Edit - change the UML / definition of the diagram
+* Share / Unshare - share or unshare a diagram with your team members
 * Duplicate - make a copy of the diagram
 * Export - download a PNG, SVG or Text version of the diagram
 * Delete - remove the diagram
 
-Each diagram has a dropdown status column (only available to Owners, Administrators and Editors) where you can set the status to Draft or Final.
+**Shared**
 
-The visibility value can be Private or Community.  Private diagrams can only be seen by those users that are members of your workspace. Community diagrams have been "published" and they will appear in the Community tab where all users in the system will be able to see them.
-
-**Community**
-
-This tab contains all diagrams that have been published to the community.  All users in the system can view community diagrams.  Click on any diagram to see the UML code.  If your organization created a diagram, then the right hand side Action menu will not contain the Rename, Edit, or Delete actions - you must Unpublish your diagram first before you can make changes to it.  For diagrams published by others, you will only be able to duplicate or export a community diagram.
+This tab contains all diagrams that have been shared in your workspace.  Users must share their diagrams in order for other team members to view / modify them.

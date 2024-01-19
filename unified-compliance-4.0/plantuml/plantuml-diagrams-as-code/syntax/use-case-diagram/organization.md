@@ -2,9 +2,9 @@
 
 ## Title
 
-Titles are created with the **title** command followed by the **text** for the diagram title. Title supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code.&#x20;
+Titles are created with the **title** command followed by the **text** for the diagram title. Title supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code.
 
-Titles can be single line or multiline. Use **\n** for manual line breaks. For automatic line breaks use the **end title** command. You will need to define color and emphasis for every line break.
+Titles can be single line or multiline. Use  for manual line breaks. For automatic line breaks use the **end title** command. You will need to define color and emphasis for every line break.
 
 Titles can also contain images. Use the **\<img>** markup tag to insert images in the title text. You can adjust the size of the image with the **{scale}** property.
 

@@ -1,12 +1,12 @@
 # Messages
 
-Messages are the basic action of sequence diagrams. They are portrayed by arrows going from a sender to a receiver.&#x20;
+Messages are the basic action of sequence diagrams. They are portrayed by arrows going from a sender to a receiver.
 
 Lifelines will not be declared in this section unless required for an explanation. This will keep our code blocks smaller and easier to read.
 
 ## Declaration
 
-In PlantUML, you declare messages by drawing an arrow with the characters on your keyboard. Place the arrow between the **sender** and the **receiver** with the arrow pointing at the **receiver**.&#x20;
+In PlantUML, you declare messages by drawing an arrow with the characters on your keyboard. Place the arrow between the **sender** and the **receiver** with the arrow pointing at the **receiver**.
 
 #### Example: Message Declaration
 
@@ -50,8 +50,6 @@ Maria -> Zarek
 
 ![Message Direction](../../../../../.gitbook/assets/Messages02\_direction.png)
 
-
-
 ## Properties
 
 The minimum requirements for a message are **sender**, **line\_type**, **head\_type**, and **receiver**. As we did with lifelines we will keep all message properties except **message\_text** in the below order throughout this book. Keep in mind the order is sender to receiver as shown above, not necessarily left to right. The **message\_text** property is always furthest to the right.
@@ -67,7 +65,7 @@ The minimum requirements for a message are **sender**, **line\_type**, **head\_t
 
 Senders and receivers are usually the participants with lifelines discussed in the previous section. There are a few exceptions. Messages that come from or go to places outside the scope of the current diagram have gates as their sender or receiver at the edge of the diagram. Other messages may get lost or we may not know where they come from. Per UML standards these lost and found messages are sent or received from a circle. PlantUML doesn't have a standalone command for this, so we have to combine gates with our circle. UML calls for a solid circle but PlantUML only supports an open circle. At the time of this writing PlantUML does not properly display found messages originating from the right side gate.
 
-**Senders** and **receivers** that are not lifelines with **names** must touch the **arrow\_head**. See the list of **senders** and **receivers** below.&#x20;
+**Senders** and **receivers** that are not lifelines with **names** must touch the **arrow\_head**. See the list of **senders** and **receivers** below.
 
 A message can have the same **sender** and **receiver**.
 
@@ -207,7 +205,7 @@ Sean  <-->  Zarek : <-->
 
 ### Message Text
 
-Place **message\_text** at the end of the message after a colon. You can format **message\_text** with creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code. Use **\n** for manual line breaks. For automatic line breaks see **maxMessageSize** in the [Skin Parameters](../skin-parameters.md) section. See [Text Formatting](../text-formatting.md) for a list of creole and markup options.
+Place **message\_text** at the end of the message after a colon. You can format **message\_text** with creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code. Use  for manual line breaks. For automatic line breaks see **maxMessageSize** in the [Skin Parameters](../skin-parameters.md) section. See [Text Formatting](../text-formatting.md) for a list of creole and markup options.
 
 ```
 @startuml

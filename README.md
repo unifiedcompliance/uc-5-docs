@@ -17,7 +17,7 @@ Welcome to Unified Compliance 4.0!  This all-in-one application provides you wit
   * Wordnik
   * Wiktionary
 * Create and manage one or more Glossaries that contain the terms important to your organization
-* Create, share, and publish PlantUML diagrams
+* Create and share PlantUML diagrams
 * Create and manage a standardized account
 * Generate API Keys that provide access to a suite of REST-based APIs to retrieve regulatory content, create and manage PlantUML diagrams, and much more!
 

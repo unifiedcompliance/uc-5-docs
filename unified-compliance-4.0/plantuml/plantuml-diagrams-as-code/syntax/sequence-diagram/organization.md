@@ -4,9 +4,9 @@ PlantUML provides many organizational options for sequence diagrams. There are t
 
 ## Title
 
-Titles are created with the **title** command followed by the **text** for the diagram title. Title supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code.&#x20;
+Titles are created with the **title** command followed by the **text** for the diagram title. Title supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code.
 
-Titles can be single line or multiline. Use **\n** for manual line breaks. For automatic line breaks use the **end title** command. You will need to define color and emphasis for every line break.
+Titles can be single line or multiline. Use  for manual line breaks. For automatic line breaks use the **end title** command. You will need to define color and emphasis for every line break.
 
 Titles can also contain images. Use the **\<img>** markup tag to insert images in the title text. You can adjust the size of the image with the **{scale}** property.
 
@@ -90,7 +90,7 @@ Zarek <-- Sean : Text
 
 ## Header & Footer with Page Numbers
 
-You can add a header and footer with the words **header** and **footer**. Follow each with the desired **text**. You can use creole for emphasis in the header. &#x20;
+You can add a header and footer with the words **header** and **footer**. Follow each with the desired **text**. You can use creole for emphasis in the header.
 
 This is a great place to use the values of **%page%** and **%lastpage%**. We will use a page break here to show that the page values are working. For more on this, see [Page Break](organization.md#page-break) below.
 
@@ -127,7 +127,7 @@ Zarek <-- Sean : Text
 
 ## Page Break
 
-You can add a page break with the **newpage** command. This command has an optional **text** field. The **text** field will change the **title** of the new page. This **text** field is not as robust as an actual **title**. To create a multiline **title** here you must use manual **\n** line breaks. It does support creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code. You will need to define color and emphasis for every line break.
+You can add a page break with the **newpage** command. This command has an optional **text** field. The **text** field will change the **title** of the new page. This **text** field is not as robust as an actual **title**. To create a multiline **title** here you must use manual  line breaks. It does support creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code. You will need to define color and emphasis for every line break.
 
 #### Example: Page Break
 
@@ -165,7 +165,7 @@ Zarek <-- Sean : Text
 
 ## Dividers
 
-You can add dividers to a sequence diagram with four equal signs. The divider has an optional text field. To utilize **text** place it in the middle of the equal signs. To create a multiline **divider** use manual **\n** line breaks. The **divider** supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code. The default font for **dividers** is bold so adding code for bold emphasis will do nothing.
+You can add dividers to a sequence diagram with four equal signs. The divider has an optional text field. To utilize **text** place it in the middle of the equal signs. To create a multiline **divider** use manual  line breaks. The **divider** supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code. The default font for **dividers** is bold so adding code for bold emphasis will do nothing.
 
 #### Example: Dividers
 
@@ -232,7 +232,7 @@ Zarek <-- Sean : Text
 
 ## Delays
 
-You can show a **delay** on your diagram with three consecutive periods. You can add **text** to the **delay** by using six periods with your chosen **text** in the middle. To create a multiline **delay** use manual **\n** line breaks. **Delays** support creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code.
+You can show a **delay** on your diagram with three consecutive periods. You can add **text** to the **delay** by using six periods with your chosen **text** in the middle. To create a multiline **delay** use manual  line breaks. **Delays** support creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code.
 
 Notice that when you use delays, the **lifeline** changes from the default dashed line into a solid line.
 
@@ -269,13 +269,11 @@ Zarek <-- Sean : Text
 
 ![Delays](../../../../../.gitbook/assets/Organization08\_delays.png)
 
-
-
 ## DurationConstraint
 
 **DurationConstraints** consist of four parts. First you must change the **!pragma teoz** setting to **true**. Second, place an anchor at the start point. Anchors are created with a {string} inside of curly braces. Anchors are placed at the beginning of a message line. Third, place an anchor at the at the end point of the **durationConstraint**. Finally you will define which anchors are the beginning and end of each **durationConstraint** and place the **text**.
 
-To create a multiline **durationConstraint** use manual **\n** line breaks. The **durationConstraint** supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code. The default font for **durationConstraint** is bold so adding code for bold emphasis will do nothing.
+To create a multiline **durationConstraint** use manual  line breaks. The **durationConstraint** supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code. The default font for **durationConstraint** is bold so adding code for bold emphasis will do nothing.
 
 #### Example: DurationConstraint
 
@@ -338,7 +336,7 @@ Zarek <-- Sean : Text
 
 ### Box Title
 
-**Boxes** have an optional **title** field that will appear at the top of the **box**. If used, this field comes immediately after the **box** command. To create a multiline **title** use manual **\n** line breaks. The **title** supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code. The default font for **title** is bold so adding code for bold emphasis will do nothing.
+**Boxes** have an optional **title** field that will appear at the top of the **box**. If used, this field comes immediately after the **box** command. To create a multiline **title** use manual  line breaks. The **title** supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code. The default font for **title** is bold so adding code for bold emphasis will do nothing.
 
 #### Example: Box Title
 
@@ -410,7 +408,7 @@ Zarek <-- Ivy : Text
 
 ## Mainframe
 
-Mainframe draws a box around the entire diagram. It has a mandatory **title** field. To create a multiline **title** use manual **\n** line breaks. The **title** supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code.&#x20;
+Mainframe draws a box around the entire diagram. It has a mandatory **title** field. To create a multiline **title** use manual  line breaks. The **title** supports creole syntax for emphasis and markup language for color and emphasis. You can define colors with a standard color name or hex code.
 
 #### Example: Mainframe
 
@@ -434,4 +432,3 @@ Zarek <-- Sean : Text
 ```
 
 ![Mainframe](../../../../../.gitbook/assets/Organization13\_mainframe.png)
-
