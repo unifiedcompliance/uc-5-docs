@@ -17,4 +17,4 @@ Visit the Workspace Settings page and select the API tab to generate API Key(s) 
 
 A subscription plan will also provide you with a starting amount of API tokens. Tokens are deducted each time your team makes an API call (depending on the type of call made and the content downloaded).  Need more tokens? No problem - visit the Plans page to add more tokens to your workspace!
 
-Refer to the Unified Compliance 4.0 API documentation here for more details:  [https://documenter.getpostman.com/view/21595610/2s9YJc2Nee](https://documenter.getpostman.com/view/21595610/2s9YJc2Nee)
+Refer to the Unified Compliance 4.0 API documentation here for more details:  [https://uc4apidocs.unifiedcompliance.com/](https://uc4apidocs.unifiedcompliance.com/)
