@@ -15,19 +15,14 @@ Choose the _Sign Up_ link, and enter your:
 Press _Continue_.
 
 * **Password** - minimum of 8 characters, 1 lowercase, 1 uppercase, 1 numeric and/or 1 special character.  This field is Required.
+* **First Name**  - enter your first name.  This field is Required.
+* **Last Name**  - enter your last name.  This field is Required.
 
 Press _Continue_. &#x20;
 
 Verify your email address.  Click on the link in the email received.  Then return to the application and press "Click here after confirming your email". &#x20;
 
-You will then be prompted to enter the following:
-
-* **First Name**  - enter your first name.  This field is Required.
-* **Last Name**  - enter your last name. This field is Required.
-
-Press _Continue_.
-
-**Note**: Since you are the first user to register in your account, you will automatically be the Owner of the account (known as "_Workspace_") and therefore have access to all of the administrative functions. After inviting team members, you can promote other users to have Administrator access, or even Owner access, along with other roles such as Billing, Editor and Reader. All of your _users_ will belong to your _workspace_, and, users are allowed to join other workspaces as well_._&#x20;
+**Note**:  Since you are the first user to register in your account, you will automatically be the Owner of the account (known as "_Workspace_") and therefore have access to all of the administrative functions. After inviting team members, you can promote other users to have Administrator access, or even Owner access, along with other roles such as Billing, Editor and Reader. All of your _users_ will belong to your _workspace_, and, users are allowed to join other workspaces as well_._&#x20;
 
 #### Step 2:  Choose Your Subscription
 

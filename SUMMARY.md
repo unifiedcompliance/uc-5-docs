@@ -2,7 +2,7 @@
 
 * [Unified Compliance 4.0](README.md)
   * [On-Boarding](unified-compliance-4.0/on-boarding.md)
-  * [Dictionary](unified-compliance-4.0/dictionary.md)
+  * [Glossaries](unified-compliance-4.0/dictionary.md)
   * [PlantUML](unified-compliance-4.0/plantuml/README.md)
     * [Diagrams as Code](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/README.md)
       * [Why use diagramming as code tools?](unified-compliance-4.0/plantuml/plantuml-diagrams-as-code/why-use-diagramming-as-code-tools.md)
