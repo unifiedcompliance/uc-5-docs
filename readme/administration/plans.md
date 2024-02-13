@@ -1,6 +1,6 @@
 ---
 description: >-
-  Manage your main Glossary name, Dictionary Search Settings & Add/Rename
+  Manage your main Glossary name, Dictionary Search Settings & Add/Rename/Delete
   Glossaries
 ---
 
