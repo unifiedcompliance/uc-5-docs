@@ -51,7 +51,7 @@
   * [Administration](unified-compliance-4.0/administration/README.md)
     * [Team](unified-compliance-4.0/administration/team.md)
     * [Workspace Settings](unified-compliance-4.0/administration/workspace-settings.md)
-    * [Dictionary Settings](readme/administration/plans.md)
+    * [Glossary Settings](readme/administration/plans.md)
     * [Plans](readme/administration/plans-1.md)
     * [Billing](unified-compliance-4.0/administration/billing.md)
   * [API Gateway](unified-compliance-4.0/api-gateway.md)

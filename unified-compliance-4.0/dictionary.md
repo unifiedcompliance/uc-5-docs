@@ -1,6 +1,6 @@
 # Glossaries
 
-The Dictionary/Glossaries module allows you to look up a term against several different dictionary providers, including, the Unified Compliance Dictionary.  We have integrated with the following third party Dictionary providers:  Merriam-Webster, Oxford, Wordnik, and Wiktionary. However, by default, we will search the Unified Compliance Dictionary only (visit the Glossary Settings page from the right hand navigation menu to modify the default behavior).
+The Dictionary/Glossaries Add-On module allows you to look up a term against several different dictionary providers, including, the Unified Compliance Dictionary.  We have integrated with the following third party Dictionary providers:  Merriam-Webster, Oxford, Wordnik, and Wiktionary. However, by default, we will search the Unified Compliance Dictionary only (visit the Glossary Settings page from the right hand navigation menu to modify the default behavior).
 
 From the main/left navigation menu, select _Glossaries_ and then select _Search_.  Enter a term and select _Search_ (or press the ENTER key) and the system will query all enabled dictionaries and display a consolidated list of results grouped by the part-of-speech for the term and then by dictionary provider.  There are 10 possible part-of-speech categories:  Noun, Verb, Pronoun, Adjective, Adverb, Preposition, Conjunction, Interjection, Undefined, and Other.
 

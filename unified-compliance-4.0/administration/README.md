@@ -5,6 +5,7 @@ Now that you have registered and completed the on-boarding process, as the Owner
 * Change workspaces from one to another.  Note:  Contact Support should you need to add additional workspaces.
 * Team - Invite members to your team and manage those team members
 * Workspace Settings - Make modifications to the configuration of your workspace
+* Glossary Settings - only available if you have purchased the Dictionary Add-On.  Make modifications to your glossary settings here
 * Plans - Review your Subscription and make modifications
 * Billing - Review Billing Information and make modifications
 
