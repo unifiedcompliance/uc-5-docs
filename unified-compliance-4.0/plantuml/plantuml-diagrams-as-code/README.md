@@ -103,7 +103,7 @@ Given this discussion on using Diagrams as Code for regulatory diagramming requi
 
 Ladies and gents, while we’ve been singing praises about Diagrams as Code, let’s not forget the devil’s in the details. It’s fantastic that these diagrams offer a high level of detail and standardization, but not all regulatory bodies have caught up with the times. Some still expect to see traditional visual diagrams with glossy finishes. So, while you’re coding away those diagrams, remember that you might need to translate them into a more... let’s say, “classic” format for specific audiences.
 
-### “Flexibility\*\* is Key” - A Reminder
+### “Flexibility is Key” - A Reminder
 
 Also, let’s hammer home the flexibility of Diagrams as Code. Imagine you’ve got a complex system that makes the Gordian Knot look like child’s play. With Diagrams as Code, you’re not just creating one type of diagram but setting up a Swiss Army knife of diagramming capabilities. Need a class diagram? Done. An activity diagram? You got it. An entity-relationship diagram? Please, that’s child’s play. This adaptability isn’t just remarkable; it’s crucial for ensuring that whatever the regulatory requirement, you’re prepared. Think of it as your diagramming superhero cape - one size fits all.
 
